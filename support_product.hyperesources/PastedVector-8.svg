@@ -1,0 +1,31 @@
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In  -->
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="360px" height="66.997px" viewBox="0 0 360 66.997" style="enable-background:new 0 0 360 66.997;"
+	 xml:space="preserve">
+<defs>
+	<symbol  id="search_icon" viewBox="-9 -9.707 19 18.553">
+		<path style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;" d="M5.488,1.179c0,3.682-2.985,6.667-6.667,6.667
+			s-6.667-2.985-6.667-6.667s2.985-6.667,6.667-6.667S5.488-2.503,5.488,1.179z"/>
+		<line style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;" x1="3.503" y1="-3.503" x2="9" y2="-9"/>
+		<polygon style="display:none;fill:none;" points="-9,8 10,8 10,-9 -9,-9 		"/>
+	</symbol>
+</defs>
+<g>
+	<g>
+		<g>
+			<rect x="0.307" y="0" style="fill:#F2F2F2;" width="359.693" height="66.997"/>
+			<g>
+				<text transform="matrix(1 0 0 1 127.8251 31.0652)" style="font-family:'Avenir-Book'; font-size:18;">HTC One A9</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 161.755 54.271)" style="fill:#4D4D4D; font-family:'Avenir-Book'; font-size:14;">AT&amp;T</text>
+			</g>
+			<polyline style="fill:#4D4D4D;" points="237.161,23.852 241.878,23.852 239.52,27.335 			"/>
+		</g>
+		<rect x="0" y="1.351" style="fill:none;" width="359.693" height="64.909"/>
+	</g>
+	
+		<use xlink:href="#search_icon"  width="19" height="18.553" id="XMLID_1_" x="-9" y="-9.707" transform="matrix(0.996 0 0 -0.996 334.4579 36.2521)" style="overflow:visible;"/>
+</g>
+</svg>

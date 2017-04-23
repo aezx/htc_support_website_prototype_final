@@ -1,0 +1,212 @@
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In  -->
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="356.166px" height="1503.077px" viewBox="0 0 356.166 1503.077"
+	 style="enable-background:new 0 0 356.166 1503.077;" xml:space="preserve">
+<defs>
+	<symbol  id="Community" viewBox="-26.018 -17.872 52.036 35.744">
+		<path style="fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;" d="M22.117,5.573
+			c0,2.895-2.347,5.242-5.242,5.242s-5.242-2.347-5.242-5.242s2.347-5.242,5.242-5.242S22.117,2.678,22.117,5.573z"/>
+		<path style="fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;" d="M25.018-12.429
+			c0,5.505-3.646,9.043-8.143,9.043s-8.143-3.537-8.143-9.043H25.018z"/>
+		<path style="fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;" d="M-11.633,5.573
+			c0,2.895-2.347,5.242-5.242,5.242s-5.242-2.347-5.242-5.242s2.347-5.242,5.242-5.242S-11.633,2.678-11.633,5.573z"/>
+		<path style="fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;" d="M-8.732-12.429
+			c0,5.505-3.646,9.043-8.143,9.043s-8.143-3.537-8.143-9.043H-8.732z"/>
+		<path style="fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;" d="M8.079,8.802c0,4.457-3.613,8.07-8.07,8.07
+			s-8.07-3.613-8.07-8.07s3.613-8.07,8.07-8.07S8.079,4.345,8.079,8.802z"/>
+		<path style="fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;" d="M11.622-16.872
+			c0,7.851-5.199,12.896-11.613,12.896s-11.613-5.045-11.613-12.896H11.622z"/>
+	</symbol>
+	<symbol  id="Drop_down" viewBox="-3.39 -2.23 6.78 4.46">
+		<polyline style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="3.017,1.897 0,-1.48 -3.017,1.897 		"/>
+	</symbol>
+	<symbol  id="screen" viewBox="-73.694 -135.406 147.389 270.812">
+		<path d="M73.694,121.11c0,7.896-6.401,14.296-14.296,14.296H-59.398c-7.896,0-14.296-6.401-14.296-14.296V-121.11
+			c0-7.896,6.401-14.296,14.296-14.296H59.398c7.896,0,14.296,6.401,14.296,14.296V121.11z"/>
+		<polygon style="fill:#FFFFFF;" points="67.885,-109.579 -68.115,-109.579 -68.115,110.421 67.885,110.421 		"/>
+		<g>
+			<path style="fill:#FFFFFF;" d="M-4.762-120.391c-0.442,0.45-1.115,0.638-1.557,0.661c-0.384,0.021-1.895,0.015-2.25,0
+				c-0.501-0.021-0.864-0.17-1.046-0.308c-0.002-0.001-0.005,0-0.005,0.004v2.099h-1.156v-7.403l1.154-0.001
+				c0,0-0.022,3.03,0.004,3.361c0.045,0.586,0.489,1.047,1.054,1.096c0.455,0.039,1.816,0.03,2.243,0
+				c0.586-0.041,1.02-0.501,1.053-1.12c0.012-0.228,0-3.336,0-3.336h1.157c0,0,0.004,3.096,0,3.362
+				C-4.121-121.356-4.339-120.822-4.762-120.391 M-2.911-120.949h2.737v-4.37h1.157v4.37H3.72v1.154h-6.631V-120.949z
+				 M7.014-124.186c-0.63,0.055-1.05,0.467-1.099,1.075c-0.031,0.398-0.032,0.729-0.002,1.042c0.057,0.591,0.551,1.155,1.1,1.182
+				c0.196,0.01,0.722,0.008,1.675,0.005l2.777-0.005l0,1.153c0,0-2.211,0.005-2.875,0.006c-0.893,0.004-1.341,0.006-1.626-0.006
+				c-0.626-0.023-1.149-0.246-1.557-0.661c-0.385-0.392-0.615-1.016-0.65-1.646c-0.019-0.342-0.025-0.787,0-1.052
+				c0.064-0.678,0.283-1.211,0.65-1.584c0.393-0.401,0.99-0.654,1.558-0.662c0.465-0.006,4.5-0.001,4.5-0.001v1.154
+				c0,0-1.227-0.004-1.85-0.009C8.437-124.205,7.323-124.213,7.014-124.186"/>
+		</g>
+	</symbol>
+</defs>
+<g style="opacity:0.8;">
+	<rect x="0" y="47.483" width="356.166" height="1.12"/>
+</g>
+<g style="opacity:0.8;">
+	<path d="M33.833,5.963c-1.067-1.094-2.691-1.549-3.759-1.606c-0.926-0.05-4.573-0.037-5.43,0c-1.209,0.051-2.085,0.414-2.525,0.748
+		c-0.004,0.002-0.012,0-0.012-0.009V0h-2.789v17.98l2.785,0.002c0,0-0.052-7.359,0.011-8.162c0.109-1.424,1.18-2.542,2.543-2.663
+		c1.098-0.094,4.383-0.072,5.413,0c1.414,0.099,2.461,1.217,2.542,2.72c0.029,0.553-0.001,8.103-0.001,8.103h2.791
+		c0,0,0.009-7.519,0-8.164C35.382,8.306,34.855,7.009,33.833,5.963 M38.3,7.318h6.606v10.614H47.7V7.318h6.604V4.515H38.3V7.318z
+		 M62.254,15.18c-1.52-0.134-2.535-1.135-2.653-2.61c-0.075-0.967-0.077-1.77-0.004-2.531c0.138-1.435,1.329-2.804,2.655-2.87
+		c0.474-0.024,1.742-0.02,4.043-0.011l6.702,0.011l-0.001-2.8c0,0-5.337-0.011-6.938-0.015c-2.155-0.009-3.237-0.013-3.924,0.015
+		c-1.51,0.055-2.773,0.597-3.759,1.606c-0.928,0.952-1.485,2.468-1.568,3.997c-0.047,0.831-0.06,1.912,0,2.555
+		c0.154,1.646,0.684,2.94,1.568,3.846c0.949,0.974,2.39,1.588,3.761,1.608c1.122,0.015,10.859,0.002,10.859,0.002V15.18
+		c0,0-2.961,0.011-4.464,0.022C65.689,15.226,63,15.245,62.254,15.18"/>
+</g>
+<g style="opacity:0.8;">
+	<rect x="323.093" y="4.663" width="16.695" height="2.24"/>
+	<rect x="323.093" y="9.133" width="16.695" height="2.24"/>
+	<rect x="323.093" y="13.602" width="16.695" height="2.24"/>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 133.7785 874.4526)" style="font-family:'Avenir-Book'; font-size:18;">Learn more</text>
+</g>
+<g>
+	<rect x="20.853" y="214.471" style="fill:none;" width="320.475" height="124.852"/>
+	<text transform="matrix(1 0 0 1 20.8529 224.3)"><tspan x="0" y="0" style="font-family:'Avenir-Book'; font-size:13;">On your old Android phone, download the HTC Trans</tspan><tspan x="313.244" y="0" style="font-family:'Avenir-Book'; font-size:13;">-</tspan><tspan x="0" y="14" style="font-family:'Avenir-Book'; font-size:13;">fer Tool and use it to transfer your content to HTC One </tspan><tspan x="0" y="28" style="font-family:'Avenir-Book'; font-size:13;">A9.</tspan><tspan x="0" y="51.006" style="font-family:'Avenir-Book'; font-size:13;">The types of locally stored content on your old phone </tspan><tspan x="0" y="65.006" style="font-family:'Avenir-Book'; font-size:13;">that the HTC Transfer Tool can transfer include con</tspan><tspan x="296.085" y="65.006" style="font-family:'Avenir-Book'; font-size:13;">-</tspan><tspan x="0" y="79.006" style="font-family:'Avenir-Book'; font-size:13;">tacts, messages, calendar events, music, photos, </tspan><tspan x="0" y="93.006" style="font-family:'Avenir-Book'; font-size:13;">videos, and some settings. More types of data such as </tspan><tspan x="0" y="107.006" style="font-family:'Avenir-Book'; font-size:13;">call histories, email accounts.</tspan></text>
+</g>
+<g>
+	<rect x="20.853" y="364.681" style="fill:none;" width="320.475" height="41.167"/>
+	<text transform="matrix(1 0 0 1 20.8529 374.5109)"><tspan x="0" y="0" style="font-family:'Avenir-Medium'; font-size:13;">Important : </tspan><tspan x="69.602" y="0" style="font-family:'Avenir-Book'; font-size:13;">Android version 2.2 or later to use the HTC </tspan><tspan x="0" y="14" style="font-family:'Avenir-Book'; font-size:13;">Transfer Tool. </tspan></text>
+</g>
+<g>
+	<rect x="47.7" y="435.621" style="fill:none;" width="276.721" height="41.167"/>
+	<text transform="matrix(1 0 0 1 47.7001 445.4504)"><tspan x="0" y="0" style="font-family:'Avenir-Book'; font-size:13;">From the Home screen, tap   &gt; Settings &gt; Get </tspan><tspan x="0" y="14" style="font-family:'Avenir-Book'; font-size:13;">content from another phone.</tspan></text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 22.5485 456.2043)" style="font-family:'Avenir-Book'; font-size:24;">1</text>
+</g>
+<g>
+	<rect x="47.7" y="640.764" style="fill:none;" width="276.721" height="41.167"/>
+	<text transform="matrix(1 0 0 1 47.7001 650.5935)"><tspan x="0" y="0" style="font-family:'Avenir-Book'; font-size:13;">Choose whether to transfer from an HTC </tspan><tspan x="0" y="14" style="font-family:'Avenir-Book'; font-size:13;">Android phone or other Android phone.</tspan></text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 22.5485 661.3474)" style="font-family:'Avenir-Book'; font-size:24;">2</text>
+</g>
+<g>
+	<rect x="22.551" y="152.489" style="fill:none;" width="313.217" height="41.899"/>
+	<text transform="matrix(1 0 0 1 22.5505 166.1057)" style="font-family:'Avenir-Book'; font-size:18.0112;">Ways to transfer content</text>
+</g>
+<g style="opacity:0.8;">
+	<rect x="18.838" y="834.097" width="321.047" height="1.126"/>
+</g>
+<g style="opacity:0.8;">
+	<rect x="18.838" y="1026.073" width="321.047" height="1.126"/>
+</g>
+<g style="opacity:0.8;">
+	<rect x="18.838" y="1098.286" width="321.047" height="1.126"/>
+</g>
+<g style="opacity:0.8;">
+	<rect x="18.838" y="1313.129" width="321.047" height="1.126"/>
+</g>
+<g>
+	<rect x="20.853" y="1057.726" style="fill:none;" width="224.195" height="21.531"/>
+	<text transform="matrix(1 0 0 1 20.8529 1067.5544)" style="font-family:'Avenir-Book'; font-size:13;">Was this information helpful?</text>
+</g>
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 40.8151 1149.8737)"><tspan x="0" y="0" style="font-family:'Avenir-Book'; font-size:18;">Find more solutions for this topic </tspan><tspan x="-19.512" y="19" style="font-family:'Avenir-Book'; font-size:18;">from HTC customers around the world</tspan></text>
+	</g>
+	<g>
+		<g>
+			<g>
+				<text transform="matrix(0.9998 0.0175 -0.0175 0.9998 138.1891 1275.6002)"><tspan x="0" y="0" style="font-family:'Avenir-Book'; font-size:14;">C</tspan><tspan x="10.097" y="-0.163" style="font-family:'Avenir-Book'; font-size:14;">o</tspan><tspan x="18.64" y="-0.344" style="font-family:'Avenir-Book'; font-size:14;">m</tspan><tspan x="30.809" y="-0.556" style="font-family:'Avenir-Book'; font-size:14;">m</tspan><tspan x="42.978" y="-0.733" style="font-family:'Avenir-Book'; font-size:14;">u</tspan><tspan x="51.004" y="-0.873" style="font-family:'Avenir-Book'; font-size:14;">n</tspan><tspan x="59.031" y="-0.974" style="font-family:'Avenir-Book'; font-size:14;">i</tspan><tspan x="62.634" y="-1.048" style="font-family:'Avenir-Book'; font-size:14;">t</tspan><tspan x="67.524" y="-1.151" style="font-family:'Avenir-Book'; font-size:14;">y</tspan></text>
+			</g>
+		</g>
+	</g>
+	
+		<use xlink:href="#Community"  width="52.036" height="35.744" x="-26.018" y="-17.872" transform="matrix(1.2609 0 0 -1.2688 175.2105 1230.9746)" style="overflow:visible;"/>
+</g>
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 112.7333 1364.1364)"><tspan x="0" y="0" style="font-family:'Avenir-Book'; font-size:18;">Can’t find what </tspan><tspan x="-11.844" y="19" style="font-family:'Avenir-Book'; font-size:18;">you’re looking for?</tspan></text>
+	</g>
+	<g>
+		<g>
+			<g>
+				<text transform="matrix(0.9998 0.0175 -0.0175 0.9998 146.59 1498.886)"><tspan x="0" y="0" style="font-family:'Avenir-Book'; font-size:14;">G</tspan><tspan x="11.133" y="-0.168" style="font-family:'Avenir-Book'; font-size:14;">e</tspan><tspan x="19.16" y="-0.281" style="font-family:'Avenir-Book'; font-size:14;">t</tspan><tspan x="24.051" y="-0.359" style="font-family:'Avenir-Book'; font-size:14;"> </tspan><tspan x="28.185" y="-0.485" style="font-family:'Avenir-Book'; font-size:14;">H</tspan><tspan x="38.534" y="-0.646" style="font-family:'Avenir-Book'; font-size:14;">e</tspan><tspan x="46.561" y="-0.747" style="font-family:'Avenir-Book'; font-size:14;">l</tspan><tspan x="50.163" y="-0.855" style="font-family:'Avenir-Book'; font-size:14;">p</tspan></text>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path d="M162.208,1471.251l-2.254-1.162l1.116-6.346c-10.599-3.487-17.381-10.819-17.381-18.914
+				c0-11.585,13.819-21.01,30.805-21.01s30.805,9.425,30.805,21.01s-13.819,21.01-30.805,21.01c-2.142,0-4.348-0.168-6.57-0.499
+				L162.208,1471.251z M174.495,1426.485c-15.525,0-28.155,8.229-28.155,18.344c0,7.167,6.521,13.726,16.612,16.709l0.931,1.512
+				l-0.569,3.234l3.189-3.297l1.163-0.386c2.312,0.379,4.61,0.572,6.829,0.572c15.525,0,28.155-8.229,28.155-18.344
+				C202.65,1434.714,190.02,1426.485,174.495,1426.485z"/>
+		</g>
+		<text transform="matrix(1 0 0 1 167.393 1454.8188)" style="font-family:'Avenir-Medium'; font-size:29.0612;">?</text>
+	</g>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 247.0652 1067.7789)" style="font-family:'Avenir-Book'; font-size:10.6667;">Yes</text>
+</g>
+<g>
+	<path d="M277.755,1076.575l-48.271-0.599l0.289-23.568l48.271,0.599L277.755,1076.575z M231.066,1074.423l45.145,0.56l0.25-20.423
+		l-45.145-0.56L231.066,1074.423z"/>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 304.5534 1067.7789)" style="font-family:'Avenir-Book'; font-size:10.6667;">No</text>
+</g>
+<g>
+	<path d="M337.502,1076.277h-48.274v-23.57h48.274V1076.277z M290.791,1074.704h45.149v-20.425h-45.149V1074.704z"/>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 20.8528 906.7999)" style="font-family:'Avenir-Book'; font-size:10;">Receiving files using Bluetooth</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 20.8528 931.9132)" style="font-family:'Avenir-Book'; font-size:10;">Using HTC Connect to share your media</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 20.8528 957.0242)" style="font-family:'Avenir-Book'; font-size:10;">Using NFC</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 20.8528 982.1375)" style="font-family:'Avenir-Book'; font-size:10;">Backup my phone content to computer</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 20.8528 1007.2501)" style="font-family:'Avenir-Book'; font-size:10;">Restore phone content from Apple iCloud</text>
+</g>
+<g>
+	<rect x="46.59" y="690.058" style="fill:none;" width="248.622" height="36.754"/>
+	<text transform="matrix(1 0 0 1 46.5885 699.8859)"><tspan x="0" y="0" style="font-family:'Avenir-Book'; font-size:13;">On the Get content from another phone </tspan><tspan x="0" y="14" style="font-family:'Avenir-Book'; font-size:13;">screen, tap Next.</tspan></text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 23.9928 708.4352)" style="font-family:'Avenir-Book'; font-size:24;">3</text>
+</g>
+<g>
+	<rect x="46.59" y="746.408" style="fill:none;" width="248.622" height="65.836"/>
+	<text transform="matrix(1 0 0 1 46.5885 756.2365)"><tspan x="0" y="0" style="font-family:'Avenir-Book'; font-size:13;">Follow the steps shown on HTC One A9 to </tspan><tspan x="0" y="14" style="font-family:'Avenir-Book'; font-size:13;">download the HTC Transfer Tool from </tspan><tspan x="0" y="28" style="font-family:'Avenir-Book'; font-size:13;">Google Play to your old phone, install it, </tspan><tspan x="0" y="42" style="font-family:'Avenir-Book'; font-size:13;">and open the tool.</tspan></text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 23.9928 764.7848)" style="font-family:'Avenir-Book'; font-size:24;">4</text>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="29.097" y="487.381" width="295.325" height="118.108"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g transform="matrix(1 -3.469447e-18 3.469447e-18 1 0 0)" style="clip-path:url(#SVGID_2_);">
+		
+			<use xlink:href="#Drop_down"  width="6.78" height="4.46" x="-3.39" y="-2.23" transform="matrix(6.562521e-11 -1.4617 -1.4617 -6.562521e-11 126.3486 560.5788)" style="overflow:visible;"/>
+	</g>
+	<g transform="matrix(1 -3.469447e-18 3.469447e-18 1 0 0)" style="clip-path:url(#SVGID_2_);">
+		
+			<use xlink:href="#Drop_down"  width="6.78" height="4.46" x="-3.39" y="-2.23" transform="matrix(6.562521e-11 -1.4617 -1.4617 -6.562521e-11 226.2961 560.5788)" style="overflow:visible;"/>
+	</g>
+	<g style="clip-path:url(#SVGID_2_);">
+		
+			<use xlink:href="#screen"  width="147.389" height="270.812" x="-73.694" y="-135.406" transform="matrix(0.5424 0 0 -0.5424 76.2465 567.5997)" style="overflow:visible;"/>
+	</g>
+	<g style="clip-path:url(#SVGID_2_);">
+		
+			<use xlink:href="#screen"  width="147.389" height="270.812" x="-73.694" y="-135.406" transform="matrix(0.5424 0 0 -0.5424 176.1941 567.5997)" style="overflow:visible;"/>
+	</g>
+	<g style="clip-path:url(#SVGID_2_);">
+		
+			<use xlink:href="#screen"  width="147.389" height="270.812" x="-73.694" y="-135.406" transform="matrix(0.5424 0 0 -0.5424 276.1417 567.5997)" style="overflow:visible;"/>
+	</g>
+</g>
+</svg>

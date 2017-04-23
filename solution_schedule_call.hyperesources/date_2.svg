@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="840px" height="268px" viewBox="0 0 840 268" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 9</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="160" height="60"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="160" height="60" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.3.4-Personal-information" transform="translate(-380.000000, -1662.000000)">
+            <g id="Bring-for-repairs" transform="translate(210.000000, 291.000000)">
+                <g id="Group-9" transform="translate(170.000000, 1371.000000)">
+                    <g id="hour" transform="translate(100.000000, 170.000000)">
+                        <g id="Group-5-Copy-4" transform="translate(0.000000, 60.000000)">
+                            <text id="8:30-AM" font-family="Avenir-Book, Avenir" font-size="20" font-weight="normal" fill="#000000">
+                                <tspan x="42" y="37">8:30 AM</tspan>
+                            </text>
+                            <rect id="Rectangle-7" x="0" y="0" width="160" height="60"></rect>
+                        </g>
+                        <g id="Group-5-Copy" transform="translate(160.000000, 0.000000)">
+                            <text id="9:00-AM" font-family="Avenir-Book, Avenir" font-size="20" font-weight="normal" fill="#000000">
+                                <tspan x="42" y="37">9:00 AM</tspan>
+                            </text>
+                            <rect id="Rectangle-7" x="0" y="0" width="160" height="60"></rect>
+                        </g>
+                        <g id="Group-5-Copy-5" transform="translate(160.000000, 60.000000)">
+                            <text id="9:30-AM" font-family="Avenir-Book, Avenir" font-size="20" font-weight="normal" fill="#000000">
+                                <tspan x="42" y="37">9:30 AM</tspan>
+                            </text>
+                            <rect id="Rectangle-7" x="0" y="0" width="160" height="60"></rect>
+                        </g>
+                        <g id="Group-5-Copy-2" transform="translate(320.000000, 0.000000)">
+                            <text id="10:00-AM" font-family="Avenir-Book, Avenir" font-size="20" font-weight="normal" fill="#000000">
+                                <tspan x="36.44" y="37">10:00 AM</tspan>
+                            </text>
+                            <rect id="Rectangle-7" x="0" y="0" width="160" height="60"></rect>
+                        </g>
+                        <g id="Group-5-Copy-6" transform="translate(320.000000, 60.000000)">
+                            <text id="10:30-AM" font-family="Avenir-Book, Avenir" font-size="20" font-weight="normal" fill="#000000">
+                                <tspan x="36.44" y="37">10:30 AM</tspan>
+                            </text>
+                            <rect id="Rectangle-7" x="0" y="0" width="160" height="60"></rect>
+                        </g>
+                        <g id="Group-5-Copy-3" transform="translate(480.000000, 0.000000)">
+                            <text id="11:00-AM" font-family="Avenir-Book, Avenir" font-size="20" font-weight="normal" fill="#000000">
+                                <tspan x="36.44" y="37">11:00 AM</tspan>
+                            </text>
+                            <rect id="Rectangle-7" x="0" y="0" width="160" height="60"></rect>
+                        </g>
+                        <g id="Group-5-Copy-7" transform="translate(516.000000, 77.000000)" font-size="20" font-family="Avenir-Book, Avenir" fill="#000000" font-weight="normal">
+                            <text id="11:30-AM">
+                                <tspan x="0.44" y="20">11:30 AM</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-5">
+                            <text id="8:00-AM" font-family="Avenir-Book, Avenir" font-size="20" font-weight="normal" fill="#000000">
+                                <tspan x="42" y="37">8:00 AM</tspan>
+                            </text>
+                            <rect id="Rectangle-7" x="0" y="0" width="160" height="60"></rect>
+                        </g>
+                    </g>
+                    <rect id="devider-copy" fill="#DADADA" x="0" y="132" width="840" height="4"></rect>
+                    <g id="Time" transform="translate(180.000000, 38.000000)">
+                        <g id="Group-4">
+                            <text id="Morning" font-family="Avenir-Book, Avenir" font-size="20" font-weight="normal" fill="#000000">
+                                <tspan x="42.04" y="37">Morning</tspan>
+                            </text>
+                            <use id="Rectangle-7" stroke="#404040" mask="url(#mask-2)" stroke-width="6" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="Group-4-Copy" transform="translate(160.000000, 0.000000)">
+                            <text id="Afternoon" font-family="Avenir-Book, Avenir" font-size="20" font-weight="normal" fill="#000000">
+                                <tspan x="34.82" y="37">Afternoon</tspan>
+                            </text>
+                            <rect id="Rectangle-7" x="0" y="0" width="160" height="60"></rect>
+                        </g>
+                        <g id="Group-4-Copy-2" transform="translate(320.000000, 0.000000)">
+                            <text id="Evening" font-family="Avenir-Book, Avenir" font-size="20" font-weight="normal" fill="#000000">
+                                <tspan x="44.06" y="37">Evening</tspan>
+                            </text>
+                            <rect id="Rectangle-7" x="0" y="0" width="160" height="60"></rect>
+                        </g>
+                    </g>
+                    <rect id="devider" fill="#DADADA" x="0" y="0" width="840" height="4"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

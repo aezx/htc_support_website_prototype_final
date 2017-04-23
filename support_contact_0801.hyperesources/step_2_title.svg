@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="412px" height="53px" viewBox="0 0 412 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>step_2_title</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="step_2_title" transform="translate(0.000000, -4.000000)" fill="#000000">
+            <rect id="devider" x="146" y="53" width="120" height="4"></rect>
+            <text id="What-type-of-problem" font-family="Avenir-Book, Avenir" font-size="20" font-weight="normal">
+                <tspan x="0.19" y="20">What type of problem do you need help with?</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="265px" height="773px" viewBox="0 0 265 773" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 19</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.5658 102.465 73.7148 102.465 73.7148 0.5959 0.5658 0.5959"></polygon>
+        <polygon id="path-3" points="0 108.063 270.209 108.063 270.209 0 0 0"></polygon>
+        <rect id="path-5" x="184" y="6" width="75" height="25"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="75" height="25" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-19" transform="translate(-5.000000, -3.000000)">
+            <text id="Transferring-content" font-family="Avenir-Book, Avenir" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="5" y="16">Transferring content from an Android</tspan>
+                <tspan x="5" y="38">phone</tspan>
+            </text>
+            <path d="M10.5,719.5 L266.999512,719.5" id="Line" stroke="#000000" stroke-linecap="square"></path>
+            <g id="Group-17" transform="translate(0.000000, 82.000000)">
+                <text id="On-your-old-Android" font-family="Avenir-Book, Avenir" font-size="13" font-weight="normal" fill="#000000">
+                    <tspan x="6" y="13">On your old Android phone, download the </tspan>
+                    <tspan x="6" y="31">HTC Transfer Tool and use it to transfer your </tspan>
+                    <tspan x="6" y="49">content to HTC One A9.</tspan>
+                    <tspan x="6" y="67">The types of locally stored content on your </tspan>
+                    <tspan x="6" y="85">old phone that the HTC Transfer Tool can </tspan>
+                    <tspan x="6" y="103">transfer include contacts, messages, calendar </tspan>
+                    <tspan x="6" y="121">events, music, photos, videos, and some </tspan>
+                    <tspan x="6" y="139">settings. </tspan>
+                </text>
+                <text id="Important-:-Android" font-family="Avenir-Black, Avenir" font-size="13" font-weight="700" fill="#000000">
+                    <tspan x="6" y="183">Important</tspan>
+                    <tspan x="67.594" y="183" font-family="Avenir-Book, Avenir" font-weight="normal"> : Android version 2.2 or later to </tspan>
+                    <tspan x="6" y="201" font-family="Avenir-Book, Avenir" font-weight="normal">use the HTC Transfer Tool. </tspan>
+                </text>
+                <text id="From-the-Home-screen" font-family="Avenir-Book, Avenir" font-size="13" font-weight="normal" fill="#000000">
+                    <tspan x="26" y="242">From the Home screen, tap   &gt; Settings &gt; </tspan>
+                    <tspan x="26" y="260">Get content from another phone.</tspan>
+                </text>
+                <text id="Choose-whether-to-tr" font-family="Avenir-Book, Avenir" font-size="13" font-weight="normal" fill="#000000">
+                    <tspan x="30" y="434">Choose whether to transfer from an HTC </tspan>
+                    <tspan x="30" y="452">Android phone or other Android phone.</tspan>
+                </text>
+                <text id="On-the-Get-content-f" font-family="Avenir-Book, Avenir" font-size="13" font-weight="normal" fill="#000000">
+                    <tspan x="30" y="493">On the Get content from another phone </tspan>
+                    <tspan x="30" y="511">screen, tap Next.</tspan>
+                </text>
+                <text id="Follow-the-steps-sho" font-family="Avenir-Book, Avenir" font-size="13" font-weight="normal" fill="#000000">
+                    <tspan x="30" y="549">Follow the steps shown on HTC One A9 </tspan>
+                    <tspan x="30" y="567">to download the HTC Transfer Tool from </tspan>
+                    <tspan x="30" y="585">Google Play to your old phone, install it, </tspan>
+                    <tspan x="30" y="603">and open the tool.</tspan>
+                </text>
+                <text id="1" font-family="Avenir-Black, Avenir" font-size="21" font-weight="700" fill="#000000">
+                    <tspan x="6" y="245">1</tspan>
+                </text>
+                <text id="2" font-family="Avenir-Black, Avenir" font-size="21" font-weight="700" fill="#000000">
+                    <tspan x="6" y="439">2</tspan>
+                </text>
+                <text id="3" font-family="Avenir-Black, Avenir" font-size="21" font-weight="700" fill="#000000">
+                    <tspan x="6" y="495">3</tspan>
+                </text>
+                <text id="4" font-family="Avenir-Black, Avenir" font-size="21" font-weight="700" fill="#000000">
+                    <tspan x="6" y="549">4</tspan>
+                </text>
+                <g id="Group-14" transform="translate(0.000000, 283.000000)">
+                    <g id="Group-9" transform="translate(6.000000, 5.598000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-8"></g>
+                        <path d="M73.7148,7.6909 C73.7148,3.7719 70.5378,0.5959 66.6198,0.5959 L7.6608,0.5959 C3.7418,0.5959 0.5658,3.7719 0.5658,7.6909 L0.5658,127.9049 C0.5658,131.8229 3.7418,134.9999 7.6608,134.9999 L66.6198,134.9999 C70.5378,134.9999 73.7148,131.8229 73.7148,127.9049 L73.7148,7.6909 Z" id="Fill-7" fill="#000000" mask="url(#mask-2)"></path>
+                    </g>
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-11"></g>
+                    <polygon id="Fill-10" fill="#FFFFFF" mask="url(#mask-4)" points="9.335 127.78 76.832 127.78 76.832 18.594 9.335 18.594"></polygon>
+                    <path d="M171.1621,13.2889 C171.1621,9.3699 167.9851,6.1939 164.0671,6.1939 L105.1081,6.1939 C101.1891,6.1939 98.0131,9.3699 98.0131,13.2889 L98.0131,133.5029 C98.0131,137.4209 101.1891,140.5979 105.1081,140.5979 L164.0671,140.5979 C167.9851,140.5979 171.1621,137.4209 171.1621,133.5029 L171.1621,13.2889 Z" id="Fill-12" fill="#000000" mask="url(#mask-4)"></path>
+                    <polygon id="Fill-13" fill="#FFFFFF" mask="url(#mask-4)" points="100.782 127.78 168.279 127.78 168.279 18.594 100.782 18.594"></polygon>
+                    <path d="M262.6095,13.2889 C262.6095,9.3699 259.4325,6.1939 255.5145,6.1939 L196.5555,6.1939 C192.6365,6.1939 189.4605,9.3699 189.4605,13.2889 L189.4605,133.5029 C189.4605,137.4209 192.6365,140.5979 196.5555,140.5979 L255.5145,140.5979 C259.4325,140.5979 262.6095,137.4209 262.6095,133.5029 L262.6095,13.2889 Z" id="Fill-14" fill="#000000" mask="url(#mask-4)"></path>
+                    <polygon id="Fill-15" fill="#FFFFFF" mask="url(#mask-4)" points="192.229 127.78 259.726 127.78 259.726 18.594 192.229 18.594"></polygon>
+                </g>
+            </g>
+            <g id="Group-16" transform="translate(9.000000, 744.000000)">
+                <text id="Want-to-share-this-a" font-family="Avenir-Book, Avenir" font-size="13" font-weight="normal" fill="#000000">
+                    <tspan x="0" y="13">Want to share this article? </tspan>
+                    <tspan x="0" y="31">Get a shareable link.</tspan>
+                </text>
+                <use id="Rectangle-4" stroke="#000000" mask="url(#mask-6)" stroke-width="2" xlink:href="#path-5"></use>
+                <text id="Get-link" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+                    <tspan x="204" y="21">Get link</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

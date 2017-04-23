@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1024px" height="475px" viewBox="0 0 1024 475" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="48.002 31.3998 48.002 0.8 0 0.8 0 31.3998 0 61.9996 48.002 61.9996"></polygon>
+        <rect id="path-3" x="0" y="0" width="280" height="56"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="280" height="56" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="0" y="0" width="280" height="56"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="280" height="56" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="0" y="0" width="280" height="56"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="280" height="56" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="0" y="0" width="280" height="56"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="280" height="56" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <polygon id="path-11" points="32.55386 61.2314 0 61.2314 0 0.0004 32.55386 0.0004 32.55386 61.2314"></polygon>
+        <rect id="path-13" x="0" y="0" width="280" height="56"></rect>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="280" height="56" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+        <polygon id="path-15" points="16.2772318 62 0 62 0 0.77 32.5544635 0.77 32.5544635 62 16.2772318 62"></polygon>
+        <rect id="path-17" x="0" y="0" width="280" height="56"></rect>
+        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="280" height="56" fill="white">
+            <use xlink:href="#path-17"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6.2.1-Warranty-&amp;-Rapairs-Landing-page" transform="translate(-288.000000, -519.000000)">
+            <g id="Group-4" transform="translate(258.000000, 519.000000)">
+                <g id="Group">
+                    <g id="Warranty_statement" transform="translate(129.000000, 0.000000)">
+                        <g id="Page-1" transform="translate(16.000000, 8.000000)">
+                            <g id="Group-3" transform="translate(0.000000, 0.200200)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Clip-2"></g>
+                                <path d="M2,17.8516 L2,58.5996 C2,59.3726 2.628,59.9996 3.4,59.9996 L44.603,59.9996 C45.374,59.9996 46.002,59.3726 46.002,58.5996 L46.002,4.1996 C46.002,3.4276 45.374,2.7996 44.603,2.7996 L17.052,2.7996 L2,17.8516 Z M44.603,61.9996 L3.4,61.9996 C1.525,61.9996 0,60.4746 0,58.5996 L0,17.4376 C0,17.1716 0.105,16.9176 0.293,16.7306 L15.931,1.0926 C16.118,0.9056 16.372,0.7996 16.638,0.7996 L44.603,0.7996 C46.477,0.7996 48.002,2.3256 48.002,4.1996 L48.002,58.5996 C48.002,60.4746 46.477,61.9996 44.603,61.9996 L44.603,61.9996 Z" id="Fill-1" fill="#000000" mask="url(#mask-2)"></path>
+                            </g>
+                            <path d="M14.5654,18.875 L1.1734,18.875 C0.6214,18.875 0.1734,18.428 0.1734,17.875 C0.1734,17.322 0.6214,16.875 1.1734,16.875 L14.5654,16.875 C15.3374,16.875 15.9654,16.247 15.9654,15.475 L15.9654,2.084 C15.9654,1.531 16.4134,1.084 16.9654,1.084 C17.5184,1.084 17.9654,1.531 17.9654,2.084 L17.9654,15.475 C17.9654,17.35 16.4404,18.875 14.5654,18.875" id="Fill-4" fill="#000000"></path>
+                            <path d="M30.6611,28.8926 L16.9661,28.8926 C16.4131,28.8926 15.9661,28.4456 15.9661,27.8926 C15.9661,27.3396 16.4131,26.8926 16.9661,26.8926 L30.6611,26.8926 C31.2141,26.8926 31.6611,27.3396 31.6611,27.8926 C31.6611,28.4456 31.2141,28.8926 30.6611,28.8926" id="Fill-6" fill="#000000"></path>
+                            <path d="M30.6611,41.5078 L16.9661,41.5078 C16.4131,41.5078 15.9661,41.0608 15.9661,40.5078 C15.9661,39.9548 16.4131,39.5078 16.9661,39.5078 L30.6611,39.5078 C31.2141,39.5078 31.6611,39.9548 31.6611,40.5078 C31.6611,41.0608 31.2141,41.5078 30.6611,41.5078" id="Fill-8" fill="#000000"></path>
+                        </g>
+                    </g>
+                    <rect id="Rectangle" x="0" y="0" width="340" height="503"></rect>
+                    <g id="Android-Phone" transform="translate(30.000000, 221.000000)">
+                        <use id="Rectangle" stroke="#404040" mask="url(#mask-4)" stroke-width="6" xlink:href="#path-3"></use>
+                        <text font-family="Avenir-Medium, Avenir" font-size="20" font-weight="400" fill="#000000">
+                            <tspan x="72.49" y="34">Android Phone</tspan>
+                        </text>
+                    </g>
+                    <g id="Windows-Phone" transform="translate(30.000000, 287.000000)">
+                        <use id="Rectangle" stroke="#404040" mask="url(#mask-6)" stroke-width="6" xlink:href="#path-5"></use>
+                        <text font-family="Avenir-Medium, Avenir" font-size="20" font-weight="400" fill="#000000">
+                            <tspan x="67.51" y="34">Windows Phone</tspan>
+                        </text>
+                    </g>
+                    <g id="Re-camera" transform="translate(30.000000, 353.000000)">
+                        <use id="Rectangle" stroke="#404040" mask="url(#mask-8)" stroke-width="6" xlink:href="#path-7"></use>
+                        <text font-family="Avenir-Medium, Avenir" font-size="20" font-weight="400" fill="#000000">
+                            <tspan x="93.07" y="34">Re camera</tspan>
+                        </text>
+                    </g>
+                    <g id="UA-Healthbox-/-Band" transform="translate(30.000000, 419.000000)">
+                        <use id="Rectangle" stroke="#404040" mask="url(#mask-10)" stroke-width="6" xlink:href="#path-9"></use>
+                        <text font-family="Avenir-Medium, Avenir" font-size="20" font-weight="400" fill="#000000">
+                            <tspan x="43.97" y="34">UA Healthbox / Band</tspan>
+                        </text>
+                    </g>
+                    <text id="Warranty-statement" font-family="Avenir-Medium, Avenir" font-size="20" font-weight="400" fill="#000000">
+                        <tspan x="81.1" y="110">Warranty statement</tspan>
+                    </text>
+                    <text id="Set-up-your-phone-to" font-family="Avenir-Book, Avenir" font-size="16" font-weight="normal" fill="#000000">
+                        <tspan x="54.6" y="143">Set up your phone to back up </tspan>
+                        <tspan x="34.208" y="165">regularly to your cloud or computer</tspan>
+                    </text>
+                </g>
+                <g id="Group-3" transform="translate(372.000000, 0.000000)">
+                    <g id="Get_a_repair" transform="translate(129.000000, 0.000000)">
+                        <g id="Page-1" transform="translate(24.000000, 9.000000)">
+                            <mask id="mask-12" fill="white">
+                                <use xlink:href="#path-11"></use>
+                            </mask>
+                            <g id="Clip-2"></g>
+                            <path d="M8.1463,2.4209 C7.1183,3.1319 6.1803,3.9819 5.3533,4.9499 C0.9063,10.1619 0.8713,18.0569 5.2713,23.3149 C6.5923,24.8929 8.1823,26.1399 9.9983,27.0229 C10.8663,27.4449 11.4253,28.3569 11.4233,29.3429 L11.4183,57.8309 C11.4183,58.6039 12.0463,59.2319 12.8193,59.2319 L20.6743,59.2319 C21.4463,59.2319 22.0743,58.6039 22.0743,57.8319 L22.0803,28.8089 C22.0803,27.8809 22.5683,27.0249 23.3543,26.5739 C25.2283,25.4999 26.8133,24.0359 28.0633,22.2239 C31.4033,17.3869 31.3843,10.8979 28.0183,6.0749 C26.9153,4.4939 25.5523,3.1789 23.9643,2.1609 L23.9643,8.1869 C23.9643,12.5479 20.4173,16.0959 16.0553,16.0959 C11.6943,16.0959 8.1463,12.5479 8.1463,8.1869 L8.1463,2.4209 Z M20.6743,61.2319 L12.8193,61.2319 C10.9443,61.2319 9.4183,59.7059 9.4183,57.8309 L9.4233,29.3409 C9.4233,29.1129 9.3053,28.9099 9.1223,28.8209 C7.0523,27.8149 5.2413,26.3939 3.7383,24.5979 C-1.2817,18.6019 -1.2417,9.5969 3.8323,3.6509 C4.8673,2.4389 6.0573,1.3899 7.3693,0.5329 C7.6613,0.3439 7.9973,0.2429 8.3403,0.2429 C9.3353,0.2429 10.1463,1.0539 10.1463,2.0509 L10.1463,8.1869 C10.1463,11.4449 12.7963,14.0959 16.0553,14.0959 C19.3143,14.0959 21.9643,11.4449 21.9643,8.1869 L21.9643,1.8069 C21.9643,0.8109 22.7753,-0.0001 23.7703,-0.0001 C24.0943,-0.0001 24.4143,0.0889 24.6943,0.2589 C26.6543,1.4459 28.3243,3.0189 29.6593,4.9309 C33.5003,10.4339 33.5203,17.8399 29.7093,23.3589 C28.2883,25.4199 26.4843,27.0849 24.3483,28.3089 C24.1833,28.4039 24.0803,28.5959 24.0803,28.8089 L24.0743,57.8319 C24.0743,59.7059 22.5483,61.2319 20.6743,61.2319 L20.6743,61.2319 Z" id="Fill-1" fill="#000000" mask="url(#mask-12)"></path>
+                        </g>
+                    </g>
+                    <rect id="Rectangle-Copy" x="0" y="0" width="340" height="503"></rect>
+                    <text id="Get-a-repair" font-family="Avenir-Medium, Avenir" font-size="20" font-weight="400" fill="#000000">
+                        <tspan x="117.23" y="110">Get a repair</tspan>
+                    </text>
+                    <text id="Tell-us-a-little-abo" font-family="Avenir-Book, Avenir" font-size="16" font-weight="normal" fill="#000000">
+                        <tspan x="52.84" y="143">Tell us a little about what's going </tspan>
+                        <tspan x="65.536" y="165">on and we'll help you get the </tspan>
+                        <tspan x="111.472" y="187">repair you need.</tspan>
+                    </text>
+                    <g id="Android-Phone" transform="translate(30.000000, 221.000000)">
+                        <use id="Rectangle" stroke="#404040" mask="url(#mask-14)" stroke-width="6" xlink:href="#path-13"></use>
+                        <text id="Start-a-repair-reque" font-family="Avenir-Medium, Avenir" font-size="20" font-weight="400" fill="#000000">
+                            <tspan x="44.19" y="34">Start a repair request</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-2" transform="translate(744.000000, 0.000000)">
+                    <text id="Repairs-status" font-family="Avenir-Medium, Avenir" font-size="20" font-weight="400" fill="#000000">
+                        <tspan x="94.18" y="110">Repairs status</tspan>
+                    </text>
+                    <g id="Repairs_status" transform="translate(129.000000, 0.000000)">
+                        <g id="Page-1" transform="translate(19.000000, 8.000000)">
+                            <g id="Group-3" transform="translate(0.000000, 0.230300)">
+                                <mask id="mask-16" fill="white">
+                                    <use xlink:href="#path-15"></use>
+                                </mask>
+                                <g id="Clip-2"></g>
+                                <path d="M20.6744,62 L12.8204,62 C10.9454,62 9.4194,60.475 9.4194,58.6 L9.4244,30.11 C9.4244,29.884 9.3064,29.68 9.1224,29.591 C7.0524,28.582 5.2394,27.161 3.7384,25.367 C-1.2816,19.371 -1.2416,10.366 3.8324,4.421 C4.8664,3.208 6.0574,2.159 7.3694,1.302 C7.9194,0.946 8.6194,0.918 9.1994,1.231 C9.7834,1.549 10.1474,2.157 10.1474,2.819 L10.1464,8.956 C10.1464,12.215 12.7964,14.865 16.0554,14.865 C19.3144,14.865 21.9654,12.215 21.9654,8.956 L21.9654,2.576 C21.9654,1.926 22.3184,1.323 22.8864,1.003 C23.4494,0.683 24.1424,0.693 24.6944,1.028 C26.6544,2.216 28.3244,3.788 29.6594,5.7 C33.5004,11.203 33.5214,18.609 29.7104,24.129 C28.2874,26.189 26.4844,27.855 24.3494,29.078 C24.1844,29.174 24.0804,29.365 24.0804,29.578 L24.0784,40.596 C24.0784,41.148 23.6304,41.596 23.0784,41.596 C22.5264,41.596 22.0784,41.147 22.0784,40.596 L22.0804,29.578 C22.0804,28.65 22.5694,27.794 23.3554,27.344 C25.2284,26.27 26.8134,24.806 28.0644,22.992 C31.4034,18.156 31.3854,11.667 28.0194,6.845 C26.9154,5.264 25.5534,3.948 23.9654,2.931 L23.9654,8.956 C23.9654,13.317 20.4174,16.865 16.0564,16.865 C11.6954,16.865 8.1464,13.317 8.1464,8.956 L8.1474,3.189 C7.1184,3.9 6.1804,4.75 5.3544,5.719 C0.9054,10.932 0.8704,18.826 5.2724,24.084 C6.5914,25.66 8.1824,26.908 9.9984,27.792 C10.8644,28.214 11.4244,29.124 11.4244,30.11 L11.4194,58.6 C11.4194,59.372 12.0474,60 12.8204,60 L20.6744,60 C21.4464,60 22.0744,59.372 22.0744,58.601 L22.0754,55.343 C22.0754,54.79 22.5244,54.343 23.0754,54.343 C23.6284,54.343 24.0754,54.791 24.0754,55.343 L24.0744,58.601 C24.0744,60.475 22.5494,62 20.6744,62" id="Fill-1" fill="#000000" mask="url(#mask-16)"></path>
+                            </g>
+                            <path d="M27.0484,52.5682 L27.0484,52.5682 C26.7824,52.5682 26.5284,52.4632 26.3414,52.2752 L19.2334,45.1662 C18.8424,44.7752 18.8424,44.1422 19.2334,43.7522 C19.6234,43.3612 20.2564,43.3612 20.6474,43.7522 L27.0484,50.1542 L39.4574,37.7452 C39.8484,37.3542 40.4814,37.3542 40.8714,37.7452 C41.2624,38.1352 41.2624,38.7682 40.8714,39.1592 L27.7554,52.2752 C27.5684,52.4632 27.3144,52.5682 27.0484,52.5682" id="Fill-4" fill="#000000"></path>
+                        </g>
+                    </g>
+                    <rect id="Rectangle-Copy-2" x="0" y="0" width="340" height="503"></rect>
+                    <text id="View-the-status-of-h" font-family="Avenir-Book, Avenir" font-size="16" font-weight="normal" fill="#000000">
+                        <tspan x="44.928" y="143">View the status of hardware service </tspan>
+                        <tspan x="68.048" y="165">you already have in progress</tspan>
+                    </text>
+                    <g id="Check-repair-status" transform="translate(30.000000, 221.000000)">
+                        <use id="Rectangle-Copy-3" stroke="#404040" mask="url(#mask-18)" stroke-width="6" xlink:href="#path-17"></use>
+                        <text font-family="Avenir-Medium, Avenir" font-size="20" font-weight="400" fill="#000000">
+                            <tspan x="53.26" y="34">Check repair status</tspan>
+                        </text>
+                    </g>
+                </g>
+                <rect id="Rectangle-9" fill="#DADADA" x="354" y="0" width="4" height="475"></rect>
+                <rect id="Rectangle-9-Copy" fill="#DADADA" x="726" y="0" width="4" height="475"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

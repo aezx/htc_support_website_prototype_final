@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1340px" height="24px" viewBox="0 0 1340 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>header</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.18213545 13.7004542 16.3373887 13.7004542 16.3373887 6.98944789 16.3373887 0.278441584 0.18213545 0.278441584"></polygon>
+        <polygon id="path-3" points="16.0047094 0 0.000161181814 0 0.000161181814 17.7298384 16.0047094 17.7298384 16.0047094 0"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="header">
+            <g id="htc_logo_01" transform="translate(0.000000, 3.000000)">
+                <g id="htc-header-logo">
+                    <polygon id="Fill-1" fill="#9FD641" points="18.8996154 4.43274166 18.8996154 7.21393386 25.4621329 7.21393386 25.4621329 17.6722159 28.2425192 17.6722159 28.2425192 7.21393386 34.8050368 7.21393386 34.8050368 4.43274166"></polygon>
+                    <g id="Group-8">
+                        <g id="Group-4" transform="translate(37.071817, 4.029545)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-3"></g>
+                            <path d="M16.3373887,0.278441584 L6.26191347,0.278441584 C2.3194063,0.278441584 0.18213545,2.49872107 0.18213545,6.93928005 C0.18213545,10.7576772 1.61423587,13.7008571 6.44888438,13.7008571 L16.3373887,13.7008571 L16.3373887,10.9236945 L6.57380028,10.9236945 C4.43572352,10.9236945 2.94156811,10.5046218 2.94156811,6.98924641 C2.94156811,3.47387105 5.04821442,3.03868015 6.28286711,3.03868015 L16.3373887,3.03868015 L16.3373887,0.278441584 Z" id="Fill-2" fill="#9FD641" mask="url(#mask-2)"></path>
+                        </g>
+                        <g id="Group-7">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <g id="Clip-6"></g>
+                            <path d="M9.86207047,4.28727507 C5.6705374,4.28727507 6.22016738,4.30822871 5.27564195,4.30822871 C4.51889334,4.30822871 3.36321973,4.61447415 2.73058111,5.11091414 L2.73058111,-0.000161181814 L0.000161181814,-0.000161181814 L0.000161181814,17.7298384 L2.73058111,17.7298384 L2.73058111,11.4461653 L2.73058111,10.0970736 C2.73058111,8.64482541 3.74038518,7.00560636 5.64958376,7.00560636 L10.0071341,7.00560636 C11.8542777,7.00560636 13.2243231,7.98075634 13.2243231,10.1180272 L13.2243231,17.7129143 L16.0047094,17.7298384 L16.0047094,9.89076084 C16.0047094,6.96369909 14.0536035,4.28727507 9.86207047,4.28727507" id="Fill-5" fill="#9FD641" mask="url(#mask-4)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <text id="Products" font-family="Avenir-Book, Avenir" font-size="16" font-weight="normal" fill="#FFFFFF">
+                <tspan x="120" y="17">Products</tspan>
+            </text>
+            <text id="Accessories" font-family="Avenir-Book, Avenir" font-size="16" font-weight="normal" fill="#FFFFFF">
+                <tspan x="223" y="17">Accessories</tspan>
+            </text>
+            <text id="Software-+-Apps" font-family="Avenir-Book, Avenir" font-size="16" font-weight="normal" fill="#FFFFFF">
+                <tspan x="347" y="17">Software + Apps</tspan>
+            </text>
+            <text id="Support" font-family="Avenir-Book, Avenir" font-size="16" font-weight="normal" fill="#FFFFFF">
+                <tspan x="507" y="17">Support</tspan>
+            </text>
+            <image id="header_search_icon" x="1316" y="0" width="24" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAA1teXP8meAAAAeFJREFUSA3dlLFKA0EQhu9CiJBUIRA0mFYfwMpCIbZahLTBF1DwESysUkseQ7AxFkbUQsQqFoqljYWWoqiIyPn9cpfcnZPLhVg58JG9mX92Nrs76ziGeZ63AG24hU+QvcIlbEPFSBvtIrEMexCYJu3BGajYF8g+YAeyo2f1FYjn4R5kV1CHqfAEfJdgCx5BdgyFsMYcI9LKg8lbjDOm0HcSL0IXZB1wk/QOgmBbWonCUJCcHJyDbDMUig4J6kBl2pbElUczHS2sCu/wAJHt7GsJ6LbI6n3nGAPydn+yPa9hphHU7dBtsVdgZg2c5C2DrD3whkYEdM97IddYQ3J14LIjK1F7rrv8bAVT+p58Xc7Sq8AblK1gSt+0r3ux9CpwDWqykiVI4Vv0NTeWVgUOQb9NS5DCt+5rDkwtK6+A3ha1f9EUDXGiXwKZemh4NxPUwyVT+5uHFa+BbhaCN6kWj0e+EWZBD5dM7V+NCGIfxLXyYPI7xvmY5PcnogLo4ZKp/dWhaiLd8wzMQAP2ITBNLjuBVEVchBugtyXJtOc1yIMml5lFzINBrGdjFVZgDnQuuue60h24cF3X41cPnlauG6RzOIU1YuqtvzMV8f8BP/Y/mbjavy3SnXhrrAn87VLTNr8BHJVOrj0lQTAAAAAASUVORK5CYII="></image>
+            <image id="header_bag_icon" x="1257" y="0" width="24" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAA1teXP8meAAAATpJREFUSA3tlDFqAkEUhl0JJAcIbJ8bpAgGu0BqiwSPoVin8BDaeQkLCVikTiNY2VrlCoFEDE6+X2aXnXV2Z0yTZn/4mNn3/vdmfMi0WhEyxvThHb4s2vcjSsMWGo1BWsOLRXtpHO5Q46BB99jGmDnrRWbVHhSTuln87JXiJXzCdblYMZtblnNR3xSncIBZVYFy1pNWedpVCeIPkMBrjUc5eeT1Kp+rstxG5ke4g55CcE/8ltWnS4LyjPDcsK7gLUkSxY5Sw1yYJnwMYAffoHxuZu9T5rkiqQOnHDD0GfUL9rCAutFV1bZt7b5oKDfSyLbc4FA0xextzRavM/byATG9zvI0BwTH1YyoGVFwAkHDv/yLnBc2eEXXcHJh52HC+wHPvIpaf9za4Jd6PYFq/aJxBzbwV6m2U+z+C46p+oztXK6rAAAAAElFTkSuQmCC"></image>
+            <image id="header_account_icon" x="1198" y="0" width="24" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAA1teXP8meAAAAdZJREFUSA2Vlb0vQ1EchlUaScUgqURKIsIghrJ3wWCUSMTGX9CZlQSDUcRglYixCxJDl8afYPK1CQNJhYWK63mvc+v29Jx76yRPes7vfd7Tj6RtV1fKCoJgHPbgBj5BS/t9mEipJ8dcsAa69AMuYBd24Bw0F+vJt3hSilugdQYjtsZsGE5Ba9vOE88UZsNaEJzw2O2TlcGxced8XtucQg0eoa8ttAZy4AFqVuQ+Ig7CN2y5jfYp7gZoDdqp6+1PImXg0pYTzpE7bTuuJ+g30rMtJ5zrJuu1HdcTPBlp1JYTzpEbdf0qn2MO3uHIb7Umck0n15p4TsiH8AVTHqU5lmPcw+YwbUOhAM9wD2M+X5lx5BZ8nnNOoQRvUIcVW9LMZHJKdt7RmeICaF3ZBc3CBMfOOjpTzsMtvELbK9TMZHLyHV0alyhVoAEz8Xl8r8w4lfg8dU9pEbQ202Q5oUknzQ1zZP1CXoPeek9aSQ7cgTquL27rFUjLoLXamvhPcsMGXb9lEsQq6Oc3myr/dbKmU03sIA2B1k6i6AjVCZvc4Yh/RwhlIxW9kiegVzTdclyxP4Z5wgYsIS/FxQ736uqOg8jXH0tzcan+A/7/pWneEG5eMpnMQDT6ATRy596+1pZyAAAAAElFTkSuQmCC"></image>
+        </g>
+    </g>
+</svg>
