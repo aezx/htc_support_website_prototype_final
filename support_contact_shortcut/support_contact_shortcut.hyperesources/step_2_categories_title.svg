@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="956px" height="293px" viewBox="0 0 956 293" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Support" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4.2-Select-Product" transform="translate(-335.000000, -1579.000000)">
+            <g id="Group-8" transform="translate(298.000000, 1573.000000)">
+                <rect id="devider-copy-2" fill="#000000" x="442" y="64" width="120" height="4"></rect>
+                <text id="2.-What-type-of-prob" font-family="Avenir-Black, Avenir" font-size="28" font-weight="700" fill="#000000">
+                    <tspan x="178.48" y="28">2. What type of problem do you need help with?</tspan>
+                </text>
+                <text id="Power-&amp;-Charging" font-family="Avenir-Book, Avenir" font-size="16" font-weight="normal" fill="#000000">
+                    <tspan x="39.928" y="250">Power &amp;</tspan>
+                    <tspan x="37.112" y="272">Charging</tspan>
+                </text>
+                <text id="Display" font-family="Avenir-Book, Avenir" font-size="16" font-weight="normal" fill="#000000">
+                    <tspan x="187.928" y="250">Display</tspan>
+                </text>
+                <text id="Storage-&amp;-System-per" font-family="Avenir-Book, Avenir" font-size="16" font-weight="normal" fill="#000000">
+                    <tspan x="322.152" y="250">Storage &amp; </tspan>
+                    <tspan x="332.368" y="272">System</tspan>
+                    <tspan x="312.376" y="294">performance</tspan>
+                </text>
+                <text id="Application" font-family="Avenir-Book, Avenir" font-size="16" font-weight="normal" fill="#000000">
+                    <tspan x="461.12" y="250">Application</tspan>
+                </text>
+                <text id="Camera" font-family="Avenir-Book, Avenir" font-size="16" font-weight="normal" fill="#000000">
+                    <tspan x="618.144" y="250">Camera</tspan>
+                </text>
+                <text id="Software-update" font-family="Avenir-Book, Avenir" font-size="16" font-weight="normal" fill="#000000">
+                    <tspan x="758.896" y="250">Software</tspan>
+                    <tspan x="764.52" y="272">update</tspan>
+                </text>
+                <text id="Backup,-Transfer-&amp;-R" font-family="Avenir-Book, Avenir" font-size="16" font-weight="normal" fill="#000000">
+                    <tspan x="875.32" y="250">Backup, Transfer</tspan>
+                    <tspan x="906.44" y="272">&amp; Reset</tspan>
+                </text>
+                <g id="Power-&amp;-Power-&amp;-Charging" transform="translate(30.000000, 134.000000)" stroke-linecap="round" stroke-width="3" stroke="#000000" stroke-linejoin="round">
+                    <polygon id="Page-1" points="29.6981697 15.6625588 45.094509 15.6625588 39.595301 32.7996676 56.0911211 32.7996676 30.7976505 67.3534907 34.92138 43.6231047 22 43.6231047"></polygon>
+                </g>
+                <g id="Display" transform="translate(174.000000, 134.000000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round">
+                    <g id="Page-1" transform="translate(23.000000, 12.000000)">
+                        <path d="M29.39,56.8763 L4.5,56.8763 C2.3,56.8763 0.5,55.0763 0.5,52.8763 L0.5,4.5003 C0.5,2.3003 2.3,0.5003 4.5,0.5003 L29.39,0.5003 C31.59,0.5003 33.39,2.3003 33.39,4.5003 L33.39,52.8763 C33.39,55.0763 31.59,56.8763 29.39,56.8763 L29.39,56.8763 Z" id="Stroke-1" stroke-width="3"></path>
+                        <path d="M0.8554,8.9144 L32.8554,8.9144" id="Stroke-3" stroke-width="3"></path>
+                        <path d="M0.8554,48.9144 L32.8554,48.9144" id="Stroke-5" stroke-width="3"></path>
+                        <path d="M9.6029,31.0302 L24.2869,16.3462" id="Stroke-7" stroke-width="3"></path>
+                        <path d="M9.6029,41.0302 L24.2869,26.3462" id="Stroke-9" stroke-width="3"></path>
+                    </g>
+                </g>
+                <g id="System-performance" transform="translate(318.000000, 134.000000)">
+                    <g id="Page-1" transform="translate(10.000000, 16.000000)">
+                        <path d="M31.7919,39.8041 C32.5009,38.7191 32.1959,37.2651 31.1109,36.5561 C30.0269,35.8481 28.5729,36.1521 27.8639,37.2371 C27.1549,38.3221 27.4599,39.7761 28.5439,40.4851 C29.6289,41.1931 31.0829,40.8891 31.7919,39.8041" id="Fill-1" fill="#000000"></path>
+                        <path d="M39.1272,24.2896 C39.1272,24.2896 26.4772,31.7936 26.0752,32.0526 C25.1922,32.6226 24.3432,33.4846 23.7462,34.3976 C21.5272,37.7936 22.4472,42.3986 25.8432,44.6176 C29.2392,46.8376 33.8432,45.8046 36.0632,42.4086 C36.6392,41.5266 37.0692,40.4596 37.2442,39.4596 C37.3332,38.9536 39.1272,24.2896 39.1272,24.2896 L39.1272,24.2896 Z" id="Stroke-3" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M1.3277,28.0206 L6.3277,28.0206" id="Stroke-5" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M54.3277,28.0206 L60.3277,28.0206" id="Stroke-7" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M30.8277,8.5206 L30.8277,1.5206" id="Stroke-9" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M15.7459,14.0602 L10.8319,9.1462" id="Stroke-11" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M46.7344,14.0602 L51.6484,9.1462" id="Stroke-13" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M58.3764,43.1413 C59.9394,38.8313 60.8224,35.0123 60.8224,30.7973 C60.8224,14.1403 47.3184,0.5003 30.6614,0.5003 C14.0034,0.5003 0.5004,14.2083 0.5004,30.8663 C0.5004,35.0803 1.3824,38.8313 2.9454,43.1413" id="Stroke-15" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+                <g id="Application" transform="translate(462.000000, 134.000000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round">
+                    <g id="Page-1" transform="translate(17.000000, 17.000000)">
+                        <path d="M16.2121,19.2121 L3.5001,19.2121 C1.8431,19.2121 0.5001,17.8691 0.5001,16.2121 L0.5001,3.5001 C0.5001,1.8431 1.8431,0.5001 3.5001,0.5001 L16.2121,0.5001 C17.8691,0.5001 19.2121,1.8431 19.2121,3.5001 L19.2121,16.2121 C19.2121,17.8691 17.8691,19.2121 16.2121,19.2121 L16.2121,19.2121 Z" id="Stroke-1" stroke-width="3"></path>
+                        <path d="M16.2121,45.2315 L3.5001,45.2315 C1.8431,45.2315 0.5001,43.8885 0.5001,42.2315 L0.5001,29.5195 C0.5001,27.8625 1.8431,26.5195 3.5001,26.5195 L16.2121,26.5195 C17.8691,26.5195 19.2121,27.8625 19.2121,29.5195 L19.2121,42.2315 C19.2121,43.8885 17.8691,45.2315 16.2121,45.2315 L16.2121,45.2315 Z" id="Stroke-3" stroke-width="3"></path>
+                        <path d="M42.2315,19.2121 L29.5195,19.2121 C27.8625,19.2121 26.5195,17.8691 26.5195,16.2121 L26.5195,3.5001 C26.5195,1.8431 27.8625,0.5001 29.5195,0.5001 L42.2315,0.5001 C43.8885,0.5001 45.2315,1.8431 45.2315,3.5001 L45.2315,16.2121 C45.2315,17.8691 43.8885,19.2121 42.2315,19.2121 L42.2315,19.2121 Z" id="Stroke-5" stroke-width="3"></path>
+                        <path d="M42.2315,45.2315 L29.5195,45.2315 C27.8625,45.2315 26.5195,43.8885 26.5195,42.2315 L26.5195,29.5195 C26.5195,27.8625 27.8625,26.5195 29.5195,26.5195 L42.2315,26.5195 C43.8885,26.5195 45.2315,27.8625 45.2315,29.5195 L45.2315,42.2315 C45.2315,43.8885 43.8885,45.2315 42.2315,45.2315 L42.2315,45.2315 Z" id="Stroke-7" stroke-width="3"></path>
+                    </g>
+                </g>
+                <g id="Camera" transform="translate(606.000000, 134.000000)">
+                    <g id="Page-1" transform="translate(13.000000, 18.000000)">
+                        <path d="M40.9237,4.5423 L40.9237,4.5423 C40.9237,2.3093 39.1137,0.5003 36.8817,0.5003 L17.1187,0.5003 C14.8857,0.5003 13.0767,2.3093 13.0767,4.5423 L13.0767,4.5423 C13.0767,6.7753 11.2667,8.5843 9.0337,8.5843 L5.9757,8.5843 C2.9517,8.5843 0.4997,11.0363 0.4997,14.0603 L0.4997,39.0413 C0.4997,42.0653 2.9517,44.5173 5.9757,44.5173 L48.0237,44.5173 C51.0487,44.5173 53.4997,42.0653 53.4997,39.0413 L53.4997,14.0603 C53.4997,11.0363 51.0487,8.5843 48.0237,8.5843 L44.9657,8.5843 C42.7337,8.5843 40.9237,6.7753 40.9237,4.5423 L40.9237,4.5423 Z" id="Stroke-1" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M38.678,24.7476 C38.678,18.2976 33.45,13.0696 27,13.0696 C20.55,13.0696 15.322,18.2976 15.322,24.7476 C15.322,31.1976 20.55,36.4256 27,36.4256 C33.45,36.4256 38.678,31.1976 38.678,24.7476 L38.678,24.7476 Z" id="Stroke-3" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M10.1568,16.4449 C10.1568,15.4529 9.3528,14.6479 8.3598,14.6479 C7.3678,14.6479 6.5638,15.4529 6.5638,16.4449 C6.5638,17.4369 7.3678,18.2419 8.3598,18.2419 C9.3528,18.2419 10.1568,17.4369 10.1568,16.4449" id="Fill-5" fill="#000000"></path>
+                    </g>
+                </g>
+                <g id="Software-update" transform="translate(750.000000, 134.000000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round">
+                    <g id="Page-1" transform="translate(17.000000, 15.000000)">
+                        <path d="M15.2702,5.9728 L7.9682,5.9728 C3.8442,5.9728 0.5002,9.3168 0.5002,13.4408 L0.5002,43.5318 C0.5002,47.6558 3.8442,50.9998 7.9682,50.9998 L38.0592,50.9998 C42.1832,50.9998 45.5272,47.6558 45.5272,43.5318 L45.5272,13.4408 C45.5272,9.3168 42.1832,5.9728 38.0592,5.9728 L31.1462,5.9728" id="Stroke-1" stroke-width="3"></path>
+                        <path d="M23.293,0.5 L23.293,31.5" id="Stroke-3" stroke-width="3"></path>
+                        <polyline id="Stroke-5" stroke-width="3" points="30.2121 25.5331 23.2931 32.4521 16.3741 25.5331"></polyline>
+                        <path d="M10.793,41 L34.793,41" id="Stroke-7" stroke-width="3"></path>
+                    </g>
+                </g>
+                <g id="Backup_transfer_n_reset" transform="translate(894.000000, 134.000000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round">
+                    <g id="Page-1" transform="translate(20.000000, 15.000000)">
+                        <path d="M23.130293,6.75850408 C22.2740605,6.64627959 21.4016186,6.58872857 20.5158279,6.58872857 C9.44868837,6.58872857 0.476362791,15.6136878 0.476362791,26.7469327 C0.476362791,37.8801776 9.44868837,46.9051367 20.5158279,46.9051367 C31.5829674,46.9051367 40.5543395,37.8801776 40.5543395,26.7469327" id="Stroke-1" stroke-width="3"></path>
+                        <polyline id="Stroke-3" stroke-width="3" points="18.3341512 0.479591837 25.5072442 6.48120408 19.5412674 13.6971429"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

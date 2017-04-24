@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1180px" height="481px" viewBox="0 0 1180 481" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.178776119 13.9090909 16.0360597 13.9090909 16.0360597 7.09588636 16.0360597 0.282681818 0.178776119 0.282681818"></polygon>
+        <polygon id="path-3" points="15.7095164 0 0.000158208955 0 0.000158208955 17.9998364 15.7095164 17.9998364 15.7095164 0"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5" transform="translate(0.000000, -4.000000)">
+            <g id="follow_us" transform="translate(1025.000000, 4.000000)">
+                <image id="footer_facebook_icon" x="0" y="1" width="24" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAA1teXP8meAAAARBJREFUSA1jZCASpKSkKDIxMVUAlXsCsRQQMyNp/Thr1iwBJD6cyQJn4WGkpqaaMjIy7gEq4cOjDKsUE1ZRJMGGhgYWoOErgUIkGw4yhqAFT58+dQCqUwQpJgcQDCKg63WxGfz///9EoPgFkBxQzV9sakBiBC0AquHHovnL7NmzF2ARxxAiGEQYOiACOF2Mrp4RXQDGT0tLA3sfyJcAYnGYOJT+B6QvI4n9AyZTIyQ+nIkviPThqjAZIJ8jy7/EVAIRITeI0M17ji4A41PLghcwA9FpqlgATLJP0Q2G8XFGMkwBMLILgOx+GB9KHwRGqgOaGFYuVXyA1WSo4KgF+EIHLDcaRKNBRDAECCqgeSoCANXhKX4cR+j+AAAAAElFTkSuQmCC"></image>
+                <image id="footer_google_plus_icon" x="131" y="1" width="24" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAA1teXP8meAAAAyZJREFUSA3NlE1IlFEUhueXCdFMWmVB7YLSCCTUMjCCAhdWmJsIisHRwaIskBZR2R8E1SRB04yji+hnI7UIAtuYhEKFFkSJEVGLaXIRTZrBzDjj9Jyv735cRx3dBF04c977nnPPPfe9dz6b7R8Pe259n89Xb7fb/fA1WFFuXM1nZmaqu7u7X6j5Qt6lAs3NzQUUvpfNZvcpbgGfJK9tKcVlvUMVofAdVRzfHo/HPXS5k/hXlSMeri4cDod0Lh82TuD3+2tZuN9MHI1EItdM3M/J6sHDmCGnw+E4DO7HljSME9DxXpUN/qiw+K6urtdwjzWuSsMG7OjocLS0tNTRTGVuTElUrALou1JhzQ9qeM7FR6PRMpp4Qo7YrKFO8EVjq+hklTa3sWlCm7/TsAGJq0atR6NyjAC6PoTImqQkBTD9Ce8wY+JuaXhRaBVBw06OeVxb8YjO5LVUwl8UnnmQF3REcFNT0xoXQzDxDaZEv2h2k3AyeDhT1gaNjY3OkpKSC/DtmFsScsZVLvwUXBYJd+Gf5sTnm6aUdrbe3t4MBU6TtRbzYc+0FUmPx3OGuZJxWovlg9PWCXKz+GScRZLzGv+gtLT0EE8yLZzX6y1CAqdglCpHmufAyVQqJQ0aA0WSszaQ9zw+Pl6NnqL7VrIazFzDwQ1QtKGnp+eHztPMZpp5AzeBCiv0mCURuh6IxWKfKDBIoeskzSouiyhS63Q6+8id7470uhY2NmDBDZj72DpsEruMbafgRjbbA/6AqbEF4FUT8WxqyAZM6bxgF8/zIEXazECME9TwpfysJY62trb2p9Ppu3DGJ4WNd4PDKicUCr1Hpm3cw0/FKW+n+7dMyk3iBBp2qqDu2aSQTb7DebCX5M35Jun5CotEZWqCV0fVqL8wGAz+BiXNwNSchAUI2eCbFjvKiYq1uQWRQORZLgSS9lmBRYALPa+w4KaZtx4/zCaXMpnMkNvtlhOt5l7q8cfMnLFEInHbxIs6+R/IPcjnQf5Uy/KtoJFXWAOPIJovT48Z/8SRkZGhiooKeSVxTLhCrACTIRIOcNJz/JNPBgKBCYP9X37+AHvSKc3efNf0AAAAAElFTkSuQmCC"></image>
+                <image id="footer_twitter_icon" x="43" y="0" width="24" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAA1teXP8meAAAAlpJREFUSA3tlTuIE1EUhncmQ4LaiQ/YKAQsRFNJBCMLChYq4opNsBElieRRKVq6SApLC0WSkAcYxEYCIlvINmpjl7BFtFldRJSNrg8wja+8/M6wdzJxx2SX6cQDP/fc//z3nPucmZj4b2N2QJN4JBLxVqvVX2O0Vjgej2/2eDwzMhTsAF/BHFwmn88v4GvJZPJkr9dbMAskEomKpmmzhULhAcGRlkql/Ax8hijgIPwGJzkO9/v9936//6C+IpqGuE+hCw6Dhqhut3sHIjBEDjobcc8CnQlXms3mRbWCDqRHdBS66/V6L2ez2S/StxsT2EV/0c6N8JfYskNqBa+UkMrn2u32IsmuRqPRrYqXlthee3+E/4KVTnEer9UKriC+4TBAVvYEPCV5g70P0GYddEMUmluc5yUhDblBbMsc5FH6ArsZdEwejazAHvurj/anCurBYLDDwHmIPYp021LAOic9k8n0SPgY7HSb2Da+pnx1yDMQbUW6bOX+N1QOs0CxWJxnWdOQn1TARXtvZVfMFGoFcv9fwtwGTRfJfxiGITksswq0Wq0l2PNg0oqu37mZy+Xe2YdZBeRjp+v6aYIf7IJ1+A2fz5f5U29+HhRZr9c/hsPhCtvVhdsEtoO1XP7PTO4Is1/1eRkqIIVqtdr3UCj0BvcAWMvbeIvuGC9XznCVael0erewzHoLn4J9uMfBCTB25ox5BGLlcnkZvaMZnU7H4CVfJ3oKWGfiqB6Qz3GvlUqlhwPK2bNmGYvFJrliZ5BNgf1gG9gA5KUvM1P5U8mPZpbE1kul/4/bbwHpyWMzgnSKAAAAAElFTkSuQmCC"></image>
+                <image id="footer_youtube_icon" x="88" y="1" width="24" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAA1teXP8meAAAAZJJREFUSA3tVT1Lw1AUbV4CoX4UF3VwKA6uQfAvKOh/0EFJxiJdnLu4CK6RxoxudRUU+wsKLqKbFEUp1oJRNJVIJJ4DDiXkEzP2wuHddz/Oeb15SUulsaVMQGJe1/V5SZL2gBVsZ4ApQAWmgUlAAaLMR9AFPgAP+ATegiC4Ag5s2+5LtVqt4nneNRJVoEh7UFVVEyA3wFo0OQ9aJbfAWNaKPPYoF7kFZrU4GizSJ7cA4VwG0jOc5iJDXbhklgLlcDS8B/lds9lcx7qB3E04n7CfoACvYyaDyLnjOMso5sV4ztCkUiCXtVqtH8uybEVRltB4lNacW4CE9Xq97Pv+LtzNNIG4NzSyr9FoiF6vt+W67j4KFiKLQkEK8BVPfQ6GYayC/BC1WogjaetxRMOkCuZwn7dxgy7h5iFn65ACA3opVknJx6UHFOjGZQuIdynQLoAojqIt8Ek9RvYxruIf8Xtyy51Ox9M07USWZT7sL4Dr+9+KpcRfKdOJsG/E+CfzAvSBJ+AWOBVC7Jim+Qp/bMkT+AVRkm4DpVXZqgAAAABJRU5ErkJggg=="></image>
+            </g>
+            <g id="Site_map" fill="#000000">
+                <text id="PRODUCTS" font-family="Avenir-Black, Avenir" font-size="16" font-weight="700">
+                    <tspan x="0" y="16">PRODUCTS</tspan>
+                </text>
+                <text id="INNOVATIONS" font-family="Avenir-Black, Avenir" font-size="16" font-weight="700">
+                    <tspan x="260" y="16">INNOVATIONS</tspan>
+                </text>
+                <text id="LEGAL" font-family="Avenir-Black, Avenir" font-size="16" font-weight="700">
+                    <tspan x="521" y="16">LEGAL</tspan>
+                </text>
+                <text id="SUPPORT" font-family="Avenir-Black, Avenir" font-size="16" font-weight="700">
+                    <tspan x="781" y="16">SUPPORT</tspan>
+                </text>
+                <text id="ABOUT-HTC" font-family="Avenir-Black, Avenir" font-size="16" font-weight="700">
+                    <tspan x="0" y="173">ABOUT HTC</tspan>
+                </text>
+                <text id="SITES" font-family="Avenir-Black, Avenir" font-size="16" font-weight="700">
+                    <tspan x="260" y="173">SITES</tspan>
+                </text>
+                <text id="COMMUNITY" font-family="Avenir-Black, Avenir" font-size="16" font-weight="700">
+                    <tspan x="521" y="298">COMMUNITY</tspan>
+                </text>
+                <text id="Smartphones-Accessor" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal">
+                    <tspan x="0" y="54">Smartphones</tspan>
+                    <tspan x="0" y="78">Accessories</tspan>
+                    <tspan x="0" y="102">RE Camera</tspan>
+                    <tspan x="0" y="126">Nexus Tablet</tspan>
+                </text>
+                <text id="Innovations-HTC-Tran" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal">
+                    <tspan x="260" y="54">Innovations</tspan>
+                    <tspan x="260" y="78">HTC Transfer Tools</tspan>
+                    <tspan x="260" y="102">Power to Give</tspan>
+                    <tspan x="260" y="126">HTC Connect</tspan>
+                </text>
+                <text id="Privacy-Policy-Learn" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal">
+                    <tspan x="521" y="54">Privacy Policy</tspan>
+                    <tspan x="521" y="78">Learn More</tspan>
+                    <tspan x="521" y="102">Terms of Use</tspan>
+                    <tspan x="521" y="126">Code of Conduct</tspan>
+                    <tspan x="521" y="150">Copyright</tspan>
+                    <tspan x="521" y="174">Product Security</tspan>
+                    <tspan x="521" y="198">Virtual Patent Marking</tspan>
+                    <tspan x="521" y="222">Trademark Usage Guidelines</tspan>
+                    <tspan x="521" y="246">Proposition 65</tspan>
+                </text>
+                <text id="Devices-&amp;-Accessorie" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal">
+                    <tspan x="781" y="54">Devices &amp; Accessories</tspan>
+                    <tspan x="781" y="78">UH OH Protection</tspan>
+                    <tspan x="781" y="102">Order Help</tspan>
+                    <tspan x="781" y="126">Order Status</tspan>
+                    <tspan x="781" y="150">Returns &amp; Cancellations</tspan>
+                    <tspan x="781" y="174">Shipping Information</tspan>
+                    <tspan x="781" y="198">FAQs</tspan>
+                    <tspan x="781" y="222">Warranty Policy</tspan>
+                </text>
+                <text id="Company-Overview-Pre" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal">
+                    <tspan x="0" y="210">Company Overview</tspan>
+                    <tspan x="0" y="234">Press &amp; Media Room</tspan>
+                    <tspan x="0" y="258">Investor</tspan>
+                    <tspan x="0" y="282">Device Security</tspan>
+                    <tspan x="0" y="306">Working at HTC</tspan>
+                </text>
+                <text id="HTC-Virtual-Reality-" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal">
+                    <tspan x="260" y="210">HTC Virtual Reality</tspan>
+                    <tspan x="260" y="234">HTC Partners</tspan>
+                    <tspan x="260" y="258">HTC Dev</tspan>
+                    <tspan x="260" y="282">HTC Champions</tspan>
+                    <tspan x="260" y="306">HTC Research</tspan>
+                    <tspan x="260" y="330">HTC Vive</tspan>
+                </text>
+                <text id="HTC-Blog-Sign-Up" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal">
+                    <tspan x="521" y="335">HTC Blog</tspan>
+                    <tspan x="521" y="359">Sign-Up</tspan>
+                </text>
+            </g>
+            <g id="buttom_block" transform="translate(0.000000, 420.000000)">
+                <rect id="Rectangle-10" fill="#FFFFFF" x="0" y="0" width="1180" height="65"></rect>
+                <path d="M109.5,14.5 L109.5,50.6247826" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                <path d="M569.5,14.5 L569.5,50.6247826" id="Line-Copy" stroke="#979797" stroke-linecap="square"></path>
+                <path d="M704.5,14.5 L704.5,50.6247826" id="Line-Copy-2" stroke="#979797" stroke-linecap="square"></path>
+                <text id="Copyright-2011-2016-" font-family="Avenir-Book, Avenir" font-size="16" font-weight="normal" fill="#A6A6A6">
+                    <tspan x="129" y="42">Copyright 2011-2016 HTC Corporation. All rights reserved.</tspan>
+                </text>
+                <text id="Privacy-Policy" font-family="Avenir-Book, Avenir" font-size="16" font-weight="normal" fill="#A6A6A6">
+                    <tspan x="588" y="42">Privacy Policy</tspan>
+                </text>
+                <text id="Product-Security" font-family="Avenir-Book, Avenir" font-size="16" font-weight="normal" fill="#A6A6A6">
+                    <tspan x="724" y="42">Product Security</tspan>
+                </text>
+                <text id="USA" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#A6A6A6">
+                    <tspan x="1123" y="42">USA</tspan>
+                </text>
+                <image id="footer_flag_USA" x="1074" y="25" width="30" height="20" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAUCAYAAACaq43EAAAABGdBTUEAA1teXP8meAAAAu5JREFUSA3FVk1LG1EUPZNMkhk/a2KN0mpqtIldaEOLqUUQcVGJC+mmGxUMLaJWK13YD+mm/oFCq5vqoohd+QFCKYibqhW1aK2oFFQM8RMrNolRk8mY5HXm/QPfIr0wi7nMuefdw7l3Hmc0PiWBQASEACZTMo6Pz5CeLiIUknFxEUNmZgrN8bwGqakC/P4QzT38+x1u8gssISsgvrjYAo/HB5/vHNXVJRgdXYLdfg3BoASv9xgu122MjCwhNzcDRmMylpd36XcZnihyHWUsvJBiMUCrbSKFhW9ITc0HotW2kObmQZKU1E5SUp4Rt/sTzT169JHk5LwgothGWls/01x39xfCGqFQiHC1te/Jysoh9vb8aGmpQG/vJKqq7FTelZV9dHRUoafnG4qKzErXRkxM/EZbWyX0X4fQlHXA1LEcj4MDnpCCAjOKi69jbGwZ7e2V6OubgU6nQV2dE/39M2houEcJA4EQmpsr6EHaru6gVXlYIqIYinO53tGOj45OUV/vxODgPMrLC6G+b2z8gdt9HwMD88jPNyEvz4ipqU16ELvdjK4uFwsvwuEwOEFoIWbzFSrj6uo+KipuKsU3oLrY6czH3JwHpaUWrK0dUKdXVtowPb2Jx7dieF6mYyKOKObiHI63xOcLK6MTh82WhZ0dP0RRh5OTMCW3WjOVzo8UE2qQlibg/FymDi+ZHYI7usBGrKD4YDCMaDQOQdDh9FSCwaBVpLgAx3HQ63kEAmF6kIgUpXmDgcfZmQTTy1dwvH7ARCxJEnh1IYiioCwNAd5tH+7eycPCgheyHKVSq/LbbGasrx/i7DyiyH4Di4vbkLe2EBwfZyOWZXDDwz+IXm+4dAELArDg5NI4FSCpxMHdXSIKAlMBVpAUiYCbBYietQIjLqLgeHNnJww6trFg5IUUjYJT96Yoiqw1mHB0gfy0WoleGZ1EhroyeV12NnQaTSJ5EVd/Ev9N6vXGRqLXahPaMd3Vk8o4JdbTgHr1+QdQPYEkC2z7iwAAAABJRU5ErkJggg=="></image>
+                <g id="HTC_logo_02" transform="translate(30.000000, 24.000000)">
+                    <g id="HTC_logo_2">
+                        <polygon id="Fill-1" fill="#A6A6A6" points="18.5510284 4.50024545 18.5510284 7.32379091 24.992506 7.32379091 24.992506 17.9413364 27.7216104 17.9413364 27.7216104 7.32379091 34.1630881 7.32379091 34.1630881 4.50024545"></polygon>
+                        <g id="Group-8">
+                            <g id="Group-4" transform="translate(36.388060, 4.090909)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Clip-3"></g>
+                                <path d="M16.0360597,0.282681818 L6.14641791,0.282681818 C2.27662687,0.282681818 0.178776119,2.53677273 0.178776119,7.04495455 C0.178776119,10.9215 1.58446269,13.9095 6.3299403,13.9095 L16.0360597,13.9095 L16.0360597,11.0900455 L6.45255224,11.0900455 C4.35391045,11.0900455 2.88731343,10.6645909 2.88731343,7.09568182 C2.88731343,3.52677273 4.95510448,3.08495455 6.16698507,3.08495455 L16.0360597,3.08495455 L16.0360597,0.282681818 Z" id="Fill-2" fill="#A6A6A6" mask="url(#mask-2)"></path>
+                            </g>
+                            <g id="Group-7">
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <g id="Clip-6"></g>
+                                <path d="M9.68017313,4.35256364 C5.56594925,4.35256364 6.10544179,4.37383636 5.17833731,4.37383636 C4.43554627,4.37383636 3.30118806,4.68474545 2.68021791,5.18874545 L2.68021791,-0.000163636364 L0.000158208955,-0.000163636364 L0.000158208955,17.9998364 L2.68021791,17.9998364 L2.68021791,11.6204727 L2.68021791,10.2508364 C2.68021791,8.77647273 3.67139701,7.11229091 5.54538209,7.11229091 L9.82256119,7.11229091 C11.6356358,7.11229091 12.9804119,8.10229091 12.9804119,10.2721091 L12.9804119,17.9826545 L15.7095164,17.9998364 L15.7095164,10.0413818 C15.7095164,7.06974545 13.794397,4.35256364 9.68017313,4.35256364" id="Fill-5" fill="#A6A6A6" mask="url(#mask-4)"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

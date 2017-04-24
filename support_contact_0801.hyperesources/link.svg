@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="481px" height="40px" viewBox="0 0 481 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>link</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="380" y="0" width="107" height="40"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="107" height="40" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="link" transform="translate(-6.000000, 0.000000)">
+            <text id="Want-to-share-this-a" font-family="Avenir-Book, Avenir" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="6.208" y="24">Want to share this article? Get a shareable link.</tspan>
+            </text>
+            <use id="Rectangle-3-Copy-3" stroke="#404040" mask="url(#mask-2)" stroke-width="6" xlink:href="#path-1"></use>
+            <text id="Get-Link" font-family="Avenir-Medium, Avenir" font-size="16" font-weight="400" fill="#404040">
+                <tspan x="402.972" y="26">Get Link</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

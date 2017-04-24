@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="218px" height="19px" viewBox="0 0 218 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>anotherChat</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.22616927,0 C3.23521063,0 -4.4333332e-05,2.67532932 -4.4333332e-05,5.97560322 C-4.4333332e-05,8.06805155 1.30257148,9.90640154 3.27169847,10.9738721 L3.32926817,13.7148721 L5.57975693,11.7893904 C6.10964142,11.8915448 6.6589861,11.9512064 7.22616927,11.9512064 C11.2171279,11.9512064 14.4523829,9.27587711 14.4523829,5.97560322 C14.4523829,2.67532932 11.2171279,0 7.22616927,0 L7.22616927,0 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="18.4524272" height="17.7148721">
+            <rect x="-2.00004433" y="-2" width="18.4524272" height="17.7148721" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <path d="M18.0546649,8.31459562 C18.0546649,6.05990206 15.8443128,4.23185335 13.117455,4.23185335 C10.3910027,4.23185335 8.18065057,6.05990206 8.18065057,8.31459562 C8.18065057,10.5692892 10.3910027,12.3973379 13.117455,12.3973379 C13.4794955,12.3973379 13.830995,12.3630003 14.1707373,12.302051 L16.2781127,14.1047757 L16.3344661,11.4075562 C17.3861267,10.658567 18.0546649,9.55203737 18.0546649,8.31459562 L18.0546649,8.31459562 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="13.8740144" height="13.8729224">
+            <rect x="6.18065057" y="2.23185335" width="13.8740144" height="13.8729224" fill="white"></rect>
+            <use xlink:href="#path-3" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.2.2-Live-Chat-Fill-in-information" transform="translate(-1120.000000, -730.000000)">
+            <g id="fill-in" transform="translate(210.000000, 291.000000)">
+                <g id="anotherChat" transform="translate(909.000000, 437.000000)">
+                    <text id="Start-another-chat-s" font-family="Avenir-Medium, Avenir" font-size="16" font-weight="400" fill="#000000">
+                        <tspan x="32" y="16">Start another chat session</tspan>
+                    </text>
+                    <g id="start_another_conversation" stroke="#000000" stroke-linejoin="round">
+                        <g id="Page-1" transform="translate(3.000000, 4.000000)">
+                            <use id="Stroke-1" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+                            <use id="Stroke-3" mask="url(#mask-4)" stroke-width="4" xlink:href="#path-3"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

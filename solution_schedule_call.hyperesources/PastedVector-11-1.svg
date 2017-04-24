@@ -1,0 +1,27 @@
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In  -->
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="316.277px" height="226.461px" viewBox="0 0 316.277 226.461"
+	 style="enable-background:new 0 0 316.277 226.461;" xml:space="preserve">
+<defs>
+	<symbol  id="search_icon" viewBox="-9 -9.707 19 18.553">
+		<path style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;" d="M5.488,1.179c0,3.682-2.985,6.667-6.667,6.667
+			s-6.667-2.985-6.667-6.667s2.985-6.667,6.667-6.667S5.488-2.503,5.488,1.179z"/>
+		<line style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;" x1="3.503" y1="-3.503" x2="9" y2="-9"/>
+		<polygon style="display:none;fill:none;" points="-9,8 10,8 10,-9 -9,-9 		"/>
+	</symbol>
+</defs>
+<rect x="0" y="3.203" style="fill:none;" width="316.277" height="28.836"/>
+<text transform="matrix(1 0 0 1 127.4743 15.0736)" style="font-family:'Avenir-Book'; font-size:15.7017;">Products</text>
+<rect x="0" y="67.169" style="fill:none;" width="316.277" height="28.836"/>
+<text transform="matrix(1 0 0 1 117.2761 79.0386)" style="font-family:'Avenir-Book'; font-size:15.7017;">Accessories</text>
+<rect x="0" y="132.273" style="fill:none;" width="316.277" height="28.836"/>
+<text transform="matrix(1 0 0 1 129.947 144.1429)" style="font-family:'Avenir-Book'; font-size:15.7017;">Support</text>
+<rect x="109" y="200.863" style="fill:none;" width="120.046" height="14.418"/>
+<text transform="matrix(1 0 0 1 108.9997 212.732)" style="font-family:'Avenir-Book'; font-size:15.7017;">Search HTC.com</text>
+<line style="fill:none;stroke:#CBCBCB;stroke-width:1.0489;stroke-miterlimit:10;" x1="2.735" y1="32.038" x2="296.961" y2="32.038"/>
+<line style="fill:none;stroke:#CBCBCB;stroke-width:1.0489;stroke-miterlimit:10;" x1="2.735" y1="96.005" x2="296.961" y2="96.005"/>
+<line style="fill:none;stroke:#CBCBCB;stroke-width:1.0489;stroke-miterlimit:10;" x1="2.735" y1="159.971" x2="296.961" y2="159.971"/>
+<line style="fill:none;stroke:#CBCBCB;stroke-width:1.0489;stroke-miterlimit:10;" x1="2.735" y1="225.937" x2="296.961" y2="225.937"/>
+<use xlink:href="#search_icon"  width="19" height="18.553" id="XMLID_1_" x="-9" y="-9.707" transform="matrix(0.9571 0 0 -0.9571 89.2572 206.7315)" style="overflow:visible;"/>
+</svg>

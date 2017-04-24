@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="945px" height="523px" viewBox="0 0 945 523" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-size="20" font-family="Avenir-Medium, Avenir" font-weight="400">
+        <g id="6.4-Applications" transform="translate(-333.000000, -497.000000)" fill="#000000">
+            <g id="Group" transform="translate(333.000000, 359.000000)">
+                <g id="row-2" transform="translate(0.000000, 134.000000)">
+                    <g id="Group-2">
+                        <text id="Ice-View">
+                            <tspan x="347.39" y="271">Ice View</tspan>
+                        </text>
+                        <text id="Help">
+                            <tspan x="35.52" y="271">Help</tspan>
+                        </text>
+                        <text id="Mail">
+                            <tspan x="530.45" y="271">Mail</tspan>
+                        </text>
+                        <text id="HTC-Connect">
+                            <tspan x="159.85" y="271">HTC Connect</tspan>
+                        </text>
+                        <text id="Sense-Home-BlinkFeed">
+                            <tspan x="656.61" y="271">Sense Home</tspan>
+                            <tspan x="668.68" y="298">BlinkFeed</tspan>
+                        </text>
+                        <text id="Sense-Home-Theme">
+                            <tspan x="820.61" y="271">Sense Home</tspan>
+                            <tspan x="846.56" y="298">Theme</tspan>
+                        </text>
+                        <text id="Sense-Home-Widget">
+                            <tspan x="0.11" y="495">Sense Home</tspan>
+                            <tspan x="23.5" y="522">Widget</tspan>
+                        </text>
+                        <text id="Weather">
+                            <tspan x="182.58" y="495">Weather</tspan>
+                        </text>
+                        <text id="Boost-+">
+                            <tspan x="22.24" y="20">Boost +</tspan>
+                        </text>
+                        <text id="BoomSound-Connect">
+                            <tspan x="166.07" y="20">BoomSound</tspan>
+                            <tspan x="183.32" y="47">Connect</tspan>
+                        </text>
+                        <text id="Calendar">
+                            <tspan x="344.25" y="20">Calendar</tspan>
+                        </text>
+                        <text id="Clock">
+                            <tspan x="523.61" y="20">Clock</tspan>
+                        </text>
+                        <text id="File-Manager">
+                            <tspan x="653.75" y="20">File Manager</tspan>
+                        </text>
+                        <text id="Google-Photos">
+                            <tspan x="808.98" y="20">Google Photos</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In  -->
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="14.037px" height="12.913px" viewBox="0 0 14.037 12.913"
+	 style="enable-background:new 0 0 14.037 12.913;" xml:space="preserve">
+<defs>
+	<symbol  id="Cancel" viewBox="-3 -2.76 6 5.52">
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="-2.406" y1="2.406" x2="2.406" y2="-2.406"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="2.406" y1="2.406" x2="-2.406" y2="-2.406"/>
+		<polygon style="display:none;fill:none;" points="-3,2 3,2 3,-2 -3,-2 		"/>
+	</symbol>
+</defs>
+<g>
+	
+		<use xlink:href="#Cancel"  width="6" height="5.52" x="-3" y="-2.76" transform="matrix(2.3395 0 0 -2.3395 7.0185 6.4566)" style="overflow:visible;"/>
+</g>
+</svg>

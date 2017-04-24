@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="325px" height="339px" viewBox="0 0 325 339" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="14.272 24 0 24 0 0.889 14.272 0.889"></polygon>
+        <polygon id="path-3" points="13.54 21 0 21 0 0.382 13.54 0.382 13.54 21"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, -5.000000)">
+            <text id="-Hello,-How-can-we-help-you?" font-family="Avenir-Book, Avenir" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="37.627" y="18.6927483"> Hello, How can we help you?</tspan>
+            </text>
+            <text id="Choose-a-topic-to-begin" font-family="Avenir-Book, Avenir" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="59.479" y="60.6507483">Choose a topic to begin</tspan>
+            </text>
+            <polygon id="Fill-1" fill="#F3F3F3" points="0 163.615 325 163.615 325 92.857 0 92.857"></polygon>
+            <text id="Product-Issue" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="129.458" y="129.977038">P</tspan>
+                <tspan x="137.494" y="129.977038" letter-spacing="-0.252">r</tspan>
+                <tspan x="141.638" y="129.977038">oduct Issue</tspan>
+            </text>
+            <g id="Group-6" transform="translate(0.000000, 319.185000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-3"></g>
+                <polygon id="Stroke-2" stroke="#000000" stroke-width="2" mask="url(#mask-2)" points="-14.271 47.112 14.272 47.112 14.272 0.889 -14.271 0.889"></polygon>
+                <polygon id="Stroke-4" stroke="#000000" stroke-width="2" mask="url(#mask-2)" points="-10.134 41.422 10.136 41.422 10.136 6.578 -10.134 6.578"></polygon>
+                <path d="M5.7452,41.4221 L-5.7438,6.5781" id="Stroke-5" stroke="#000000" stroke-width="2" mask="url(#mask-2)"></path>
+            </g>
+            <polygon id="Fill-7" fill="#F3F3F3" points="0 251.707 325 251.707 325 180.949 0 180.949"></polygon>
+            <text id="Online-Shopping-Issue" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="100.5342" y="218.068838">Online Shopping Issue</tspan>
+            </text>
+            <g id="Group-11" transform="translate(0.000000, 322.185000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="Clip-9"></g>
+                <polygon id="Stroke-8" stroke="#000000" stroke-width="2" mask="url(#mask-4)" points="-19.011 35.126 13.54 35.126 13.54 0.382 -19.011 0.382"></polygon>
+            </g>
+            <polygon id="Fill-12" fill="#F3F3F3" points="0 343.185 325 343.185 325 269.335 0 269.335"></polygon>
+            <text id="Warranty-&amp;-Repair" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" letter-spacing="-0.518" fill="#000000">
+                <tspan x="114.604" y="306.453638">W</tspan>
+                <tspan x="126.784" y="306.453638">arranty &amp; Repair</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

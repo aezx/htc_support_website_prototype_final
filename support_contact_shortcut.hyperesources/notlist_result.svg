@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="322px" height="419px" viewBox="0 0 322 419" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-12" transform="translate(0.000000, -4.000000)">
+            <text id="Email" font-family="Avenir-Book, Avenir" font-size="21" font-weight="normal" fill="#000000">
+                <tspan x="134" y="171">Email</tspan>
+            </text>
+            <polygon id="Stroke-9" stroke="#000000" stroke-width="2.258" points="143 136.235 176.327 136.235 176.327 110 143 110"></polygon>
+            <polyline id="Stroke-10" stroke="#000000" stroke-width="2.258" points="176.327 113 159.664 124.334 143 113"></polyline>
+            <text id="HTC-Support-will-rep" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="89.636" y="201">HTC Support will </tspan>
+                <tspan x="199.774" y="201" letter-spacing="-0.252">r</tspan>
+                <tspan x="203.918" y="201">eply</tspan>
+                <tspan x="84.169" y="220">by email within 48 hours </tspan>
+            </text>
+            <text id="Monday-to-Friday,-3a" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="104.238" y="399">Monday to Frida</tspan>
+                <tspan x="207.698" y="399" letter-spacing="-1.288">y</tspan>
+                <tspan x="211.87" y="399">,</tspan>
+                <tspan x="79.29" y="418">3am to 8pm Eastern Time </tspan>
+            </text>
+            <polygon id="Stroke-12" stroke="#000000" stroke-width="1.844" points="149 337.381 171.506 337.381 171.506 310 149 310"></polygon>
+            <path d="M149,316 L171.506,316" id="Stroke-13" stroke="#000000" stroke-width="1.844"></path>
+            <path d="M160,316 L160,337.299" id="Stroke-14" stroke="#000000" stroke-width="1.844"></path>
+            <path d="M160,316 L160,337.299" id="Stroke-15" stroke="#000000" stroke-width="1.844"></path>
+            <path d="M160,316 L160,337.299" id="Stroke-16" stroke="#000000" stroke-width="1.844"></path>
+            <path d="M171.506,327 L149,327" id="Stroke-17" stroke="#000000" stroke-width="1.844"></path>
+            <path d="M171.506,321 L149,321" id="Stroke-18" stroke="#000000" stroke-width="1.844"></path>
+            <path d="M168.3836,320.1561 L167.1596,325.6231 L170.1086,326.6381 C169.2926,330.1141 167.4986,334.4141 164.5496,336.4441 L162.6156,333.9871 L156.9886,338.0871 L159.0326,342.4181 C159.8036,344.0521 161.8786,344.5381 163.3216,343.4511 C169.8746,338.5191 174.3966,331.3591 175.4316,323.3491 C175.6496,321.6571 174.3276,320.1561 172.6216,320.1561 L168.3836,320.1561 Z" id="Fill-19" fill="#FFFFFF"></path>
+            <path d="M168.3836,320.1561 L167.1596,325.6231 L170.1086,326.6381 C169.2926,330.1141 167.4986,334.4141 164.5496,336.4441 L162.6156,333.9871 L156.9886,338.0871 L159.0326,342.4181 C159.8036,344.0521 161.8786,344.5381 163.3216,343.4511 C169.8746,338.5191 174.3966,331.3591 175.4316,323.3491 C175.6496,321.6571 174.3276,320.1561 172.6216,320.1561 L168.3836,320.1561 L168.3836,320.1561 Z" id="Stroke-21" stroke="#000000" stroke-width="1.844"></path>
+            <path d="M168.242,332.2458 L148.5,332.2458" id="Stroke-23" stroke="#000000" stroke-width="1.844"></path>
+            <text id="Schedule-a-Call" font-family="Avenir-Book, Avenir" font-size="21" font-weight="normal" fill="#000000">
+                <tspan x="88" y="370">Schedule a Call</tspan>
+            </text>
+            <text id="Here-are-your-recomm" font-family="Avenir-Book, Avenir" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="44.643" y="18">Here are your recommended </tspan>
+                <tspan x="96.69" y="43">support options</tspan>
+            </text>
+            <path d="M0.5,266.5 L321.5,266.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+            <path d="M0.5,71.5 L321.5,71.5" id="Line-Copy-3" stroke="#979797" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>
